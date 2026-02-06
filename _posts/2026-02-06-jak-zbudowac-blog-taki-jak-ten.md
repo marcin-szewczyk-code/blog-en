@@ -73,7 +73,7 @@ Uruchamiam Jekylla:
 ```bash
 bundle exec jekyll serve --baseurl ""
 ```
-Blog działa teraz lokalnie pod adresem: [http://127.0.0.1:4000/blog](http://127.0.0.1:4000/blog).
+Blog działa teraz lokalnie pod adresem: [https://127.0.0.1:4000/blog](https://127.0.0.1:4000/blog).
 
 Zmiany w plikach są widoczne na bieżąco (nie wszystkich, ale kluczowych).
 
