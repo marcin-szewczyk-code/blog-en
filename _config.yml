@@ -6,9 +6,8 @@
 #baseurl: "/blog"
 #url: "https://marcin-szewczyk-code.github.io"
 
-baseurl: ""
-url: "https://marcinszewczyk.net"
-
+url: "https://marcin-szewczyk-code.github.io"
+baseurl: "/blog"
 
 lastmod: false
 
