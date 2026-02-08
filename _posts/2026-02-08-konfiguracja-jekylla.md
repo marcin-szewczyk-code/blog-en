@@ -1,6 +1,6 @@
 ---
 title: "Blog Jekyll (3/4): Konfiguracja bloga w Jekyllu: pliki YAML, HTML i CSS"
-date: 2026-02-08 07:00:00 +0100
+date: 2026-02-06 09:00:00 +0100
 categories: [Blog]
 tags: [blog, jekyll, setup]
 ---
