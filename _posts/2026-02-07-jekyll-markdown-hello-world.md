@@ -60,9 +60,11 @@ W tym katalogu umieszczam wszystkie pliki dotyczące wpisu: grafiki, pliki PDF, 
 
 W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `post_id`, np.:
 
+{% raw %}
 ```markdown
-![Podpis](/assets/posts/{{ page.post_id }}/plik.png)
+![Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
 ```
+{% endraw %}
 
 ### Treść wpisu (content / body)
 
@@ -100,16 +102,19 @@ Są używane do spisu treści, kotwic i SEO (*Search Engine Optimization*):
 
 Taki rysunek:
 
-![Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
+![Interpretacja geometryczna twierdzenia Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 
 Taki kod:
 
+{% raw %}
 ```markdown
 <!-- uwaga na brak pustej linii pomiędzy rysunkiem a podpisem! -->
-![Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
+![Interpretacja geometryczna twierdzenia Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 ```
+{% endraw %}
+
 
 ### Listy
 
