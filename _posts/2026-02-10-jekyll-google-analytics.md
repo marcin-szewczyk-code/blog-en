@@ -104,6 +104,7 @@ W pliku `_includes/footer.html` zakomentowuję (`<!-- ... -->`) linię:
 
 i zastępuję ją wersją rozszerzoną:
 
+{% raw %}
 ```markdown
 {{ site.data.locales[include.lang].meta
     | replace: ':PLATFORM', _platform
@@ -111,13 +112,17 @@ i zastępuję ją wersją rozszerzoną:
     | replace: ':PRIVACY', _privacy
 }}
 ```
+{% endraw %}
+
 Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
+{% raw %}
 ```markdown
     {%- capture _privacy -%}
       Prywatność: <a href="{{ '/privacy/' | relative_url }}">Google Analytics</a>
     {%- endcapture -%}
 ```
+{% endraw %}
 
 ## Test zbierania danych
 
