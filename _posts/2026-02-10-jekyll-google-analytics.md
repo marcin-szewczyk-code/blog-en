@@ -82,7 +82,7 @@ meta: "Powered by :PLATFORM · Motyw: :THEME · :PRIVACY"
 
 ### Konfiguracja stopki _includes/footer.html
 
-Chirpy pozwala dostosować stopkę poprzez skopiowanie pliku `footer.html` layoutu do lokalnego projektu.
+Chirpy pozwala dostosować stopkę poprzez skopiowanie pliku `footer.html` z motywu do lokalnego projektu.
 
 Najpierw sprawdzam lokalną ścieżkę do motywu Chirpy:
 
@@ -98,13 +98,13 @@ copy "E:\Ruby34-x64\lib\ruby\gems\3.4.0\gems\jekyll-theme-chirpy-7.4.1\_includes
 
 W pliku `_includes/footer.html` zakomentowuję (`<!-- ... -->`) linię:
 
-```liquid
+```markdown
 {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
 ```
 
 i zastępuję ją wersją rozszerzoną:
 
-```liquid
+```markdown
 {{ site.data.locales[include.lang].meta
     | replace: ':PLATFORM', _platform
     | replace: ':THEME', _theme
@@ -113,7 +113,7 @@ i zastępuję ją wersją rozszerzoną:
 ```
 Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
-```liquid
+```markdown
     {%- capture _privacy -%}
       Prywatność: <a href="{{ '/privacy/' | relative_url }}">Google Analytics</a>
     {%- endcapture -%}
