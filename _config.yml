@@ -80,6 +80,9 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+google_analytics:
+  id: "G-8E80GPERRE"
+
 # Web Analytics Settings
 analytics:
   google:
