@@ -8,7 +8,7 @@ tags: [math, e, taylor-series, c, gmp]
 
 ## Szereg Taylora funkcji $e^x$
 
-Liczba $e$ ma wiele ciekawych własności i zastosowań, a dodatkowo ciekawe jest też to, że szereg Taylora będący rozwinięciem funkcji $e^x$ dla $x=1$ jest dodatni (nie naprzemienny) i bardzo szybko zbieżny. Jest tak dlatego, że ma silnię kolejnych indeksów w mianowniku:
+Liczba $e$ ma wiele ciekawych własności i zastosowań, a dodatkowo ciekawe jest też to, że szereg Taylora będący rozwinięciem funkcji $e^x$ dla $x=1$ jest dodatni (nie naprzemienny) i bardzo szybko zbieżny. Jest tak dlatego, że ma silnię kolejnych indeksów sumy w mianowniku:
 
 $$
 e^x=\sum_{n=0}^{\infty}\frac{x^n}{n!}
