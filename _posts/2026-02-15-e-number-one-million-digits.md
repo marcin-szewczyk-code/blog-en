@@ -49,7 +49,7 @@ Jest więcej takich obliczeń, np. w projekcie
 [y-cruncher na numberworld.org](https://www.numberworld.org/y-cruncher/),
 wraz z dużymi rekordami wyników dla $e$, $\pi$ i innych stałych.
 
-Zrobiłem też kiedyś skład w LaTeX-u ciekawej książki na ten temat:
+Zrobiłem też kiedyś skład w LaTeX-u ciekawej książki na ten temat i napisałem do niej przedmowę:
 [Number e to Approximately 1 Million Places](/assets/posts/{{ page.post_id }}/number_e_to_approximately_1_million_places.pdf)
 
 ## Kod w C (bez GMP)
