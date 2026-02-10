@@ -98,11 +98,13 @@ copy "E:\Ruby34-x64\lib\ruby\gems\3.4.0\gems\jekyll-theme-chirpy-7.4.1\_includes
 
 W pliku `_includes/footer.html` zakomentowuję (`<!-- ... -->`) linię:
 
+{% raw %}
 ```markdown
 {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
 ```
+{% endraw %}
 
-i zastępuję ją wersją rozszerzoną:
+ii zastępuję ją wersją rozszerzoną:
 
 {% raw %}
 ```markdown
