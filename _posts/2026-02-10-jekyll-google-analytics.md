@@ -104,7 +104,7 @@ W pliku `_includes/footer.html` zakomentowuję (`<!-- ... -->`) linię:
 ```
 {% endraw %}
 
-ii zastępuję ją wersją rozszerzoną:
+i zastępuję ją wersją rozszerzoną:
 
 {% raw %}
 ```markdown
@@ -120,9 +120,9 @@ Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
 {% raw %}
 ```markdown
-    {%- capture _privacy -%}
-      Prywatność: <a href="{{ '/privacy/' | relative_url }}">Google Analytics</a>
-    {%- endcapture -%}
+{%- capture _privacy -%}
+  Prywatność: <a href="{{ '/privacy/' | relative_url }}">Google Analytics</a>
+{%- endcapture -%}
 ```
 {% endraw %}
 
