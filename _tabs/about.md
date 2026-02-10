@@ -16,4 +16,4 @@ Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
 
 Tu jest pierwszy wpis o tym [Jak powstał ten blog](/posts/blog-origin/).
 
-Możliwe, że będę tu umieszczał wpisy w wolnych chwilach.
+Możliwe, że będę tu umieszczał kolejne wpisy w wolnych chwilach.
