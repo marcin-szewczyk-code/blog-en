@@ -80,4 +80,4 @@ $$
 
 Czyli pochodna funkcji $e^x$ jest równa samej sobie.
 
-Fakt ten ma wiele doniosłych konsekwencji.
+Fakt ten ma wiele bardzo doniosłych konsekwencji.
