@@ -47,7 +47,7 @@ e = 2.71828182845904523536028747135266249775724709369995957496696762772407663035
 
 Jest więcej takich obliczeń, np. w projekcie
 [y-cruncher na numberworld.org](https://www.numberworld.org/y-cruncher/),
-wraz z dużymi rekordami obliczeń dla $e$, $\pi$ i innych stałych.
+wraz z dużymi rekordami wyników dla $e$, $\pi$ i innych stałych.
 
 ## Kod w C (bez GMP)
 
