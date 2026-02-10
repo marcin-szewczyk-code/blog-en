@@ -74,4 +74,6 @@ gcc hello.c -o hello
 ./hello
 ```
 
+Plik: [hello.c](/assets/posts/{{ page.post_id }}/hello.c).
+
 Na początek to wystarczy.

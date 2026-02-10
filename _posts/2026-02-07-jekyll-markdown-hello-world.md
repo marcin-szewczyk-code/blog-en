@@ -58,11 +58,11 @@ assets/
 
 W tym katalogu umieszczam wszystkie pliki dotyczące wpisu: grafiki, pliki PDF, dane pomocnicze itp.
 
-W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `post_id`, np.:
+W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `post_id`, np. (bez "!"):
 
 {% raw %}
 ```markdown
-![Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
+[Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
 ```
 {% endraw %}
 
@@ -102,7 +102,7 @@ Są używane do spisu treści, kotwic i SEO (*Search Engine Optimization*):
 
 Taki rysunek:
 
-![Interpretacja geometryczna twierdzenia Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
+![Twierdzenie Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 
 Taki kod:
@@ -110,11 +110,12 @@ Taki kod:
 {% raw %}
 ```markdown
 <!-- uwaga na brak pustej linii pomiędzy rysunkiem a podpisem! -->
-![Interpretacja geometryczna twierdzenia Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
+![Twierdzenie Cauchy’ego](/assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 ```
 {% endraw %}
 
+Link do plików: analogicznie, tylko bez "!".
 
 ### Listy
 

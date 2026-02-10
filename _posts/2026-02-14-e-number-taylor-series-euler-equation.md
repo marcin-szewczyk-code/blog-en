@@ -1,12 +1,12 @@
 ---
-title: "Liczba „e” (2/3): szereg Taylora i wzór Eulera"
+title: "Liczba „e” (2/3): Szereg Taylora i wzór Eulera"
 post_id: e-number-taylor-series-euler-equation
 date: 2026-02-14 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e, taylor-series, euler]
 ---
 
-Pobawmy się teraz słynnym wzorem Eulera:
+Pobawmy się słynnym wzorem Eulera:
 
 $$
 e^{ix}=\cos x + i\sin x.
