@@ -6,7 +6,7 @@ categories: [Blog]
 tags: [blog, jekyll, setup, google-analytics]
 ---
 
-Na koniec warto podpiąć **Google Analytics (GA4)**, żeby wiedzieć, czy ten blog czyta ktoś inny niż autor.
+Na koniec warto podpiąć **Google Analytics (GA4)**, żeby wiedzieć, czy ten blog czyta też ktoś inny niż autor.
 
 W Jekyllu z motywem Chirpy robi się to w trzech krokach:
 1. konfiguracja **Google Analytics (GA4)**
