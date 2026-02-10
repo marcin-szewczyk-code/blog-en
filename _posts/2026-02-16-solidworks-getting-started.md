@@ -35,7 +35,7 @@ Kursy dedykowane do przygotowania do certyfikacji są tutaj:
 
 ## Pierwsze uruchomienie programu
 
-Po zainstalowaniu i uruchomieniu SolidWorks pojawia się główne okno programu z panelem startowym. Warto rozpocząć od samouczków naciskając na przycisk widoczny na rysunku.
+Po zainstalowaniu i uruchomieniu SolidWorks pojawia się główne okno programu z panelem startowym. Warto rozpocząć pracę od samouczków, klikając przycisk widoczny na rysunku.
 
 ![SolidWorks – pierwsze uruchomienie](/assets/posts/{{ page.post_id }}/solidworks-panel-startowy.png)
 ***Rys. 2.** SolidWorks – panel startowy.*
