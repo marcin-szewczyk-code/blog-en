@@ -5,7 +5,7 @@ Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
 Repozytorium źródłowe:  
 👉 [blog.marcinszewczyk.net](https://blog.marcinszewczyk.net/)
 
-URL techniczny (GitHub Pages):
+URL techniczny (GitHub Pages):  
 👉 [marcin-szewczyk-code.github.io](https://marcin-szewczyk-code.github.io/)
 
 Pierwszy wpis o genezie bloga:  
