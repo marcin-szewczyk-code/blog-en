@@ -22,4 +22,4 @@ Blog zbudowany jest przy użyciu:
 
 ## Licencja
 
-Treść wpisów © 2026 Marcin Szewczyk.
+Treść wpisów © 2026 Marcin Szewczyk
