@@ -12,10 +12,11 @@ Pierwszy wpis o genezie bloga:
 
 ## Technicznie
 
-Strona zbudowana przy użyciu:
-- Jekyll  
+Blog zbudowany jest przy użyciu:
+- generatora statycznych stron Jekyll
 - motywu Chirpy  
-- GitHub Pages  
+- platformy hostingowej GitHub Pages
+- usługi analitycznej Google Analytics
 
 ---
 
