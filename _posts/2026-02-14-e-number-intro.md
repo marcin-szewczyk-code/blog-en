@@ -55,10 +55,6 @@ Zatem pochodna funkcji wykładniczej $a^x$ jest równa tej samej funkcji $a^x$ p
 
 -->
 
-<!--
-***Tab. 1.** Wartości stałej $C_a$ obliczone dla $a=2$, $a=3$ oraz dla $2<a<3$, przy określonym $\Delta x.$*
-![Wartości stałej $C_a$](/assets/posts/{{ page.post_id }}/tab_ca.png)
--->
 
 ***Tab. 1.** Wartości stałej $C_a$ obliczone dla $a=2$, $a=3$ oraz dla $2<a<3$, przy określonym $\Delta x.$*
 
