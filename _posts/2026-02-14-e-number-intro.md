@@ -55,10 +55,23 @@ Zatem pochodna funkcji wykładniczej $a^x$ jest równa tej samej funkcji $a^x$ p
 
 -->
 
+<!--
 ***Tab. 1.** Wartości stałej $C_a$ obliczone dla $a=2$, $a=3$ oraz dla $2<a<3$, przy określonym $\Delta x.$*
 ![Wartości stałej $C_a$](/assets/posts/{{ page.post_id }}/tab_ca.png)
+-->
+
+***Tab. 1.** Wartości stałej $C_a$ obliczone dla $a=2$, $a=3$ oraz dla $2<a<3$, przy określonym $\Delta x.$*
+
+| $\Delta x$ | $C_{a=2}$ | $C_{a=e\approx 2.71828\ldots}$ | $C_{a=3}$ |
+|:--:|--:|--:|--:|
+| $10^{-1}$ | 0.7177346 | 1.0517092 | 1.1612317 |
+| $10^{-2}$ | 0.6955550 | 1.0050167 | 1.1046691 |
+| $10^{-3}$ | 0.6933874 | 1.0005002 | 1.0992159 |
+| $10^{-4}$ | 0.6931712 | 1.0000500 | 1.0986726 |
+| $10^{-5}$ | 0.6931495 | 1.0000050 | 1.0986183 |
+| $10^{-6}$ | 0.693147(4) $< 1$ | 1.000000(5) $\approx 1$ | 1.098612(8) $> 1$ |
       	
-Zauważając, że granica $C_a$ jest funkcją podstawy $a$, w tab. 1 zbadano wartości tej granicy dla $a=2$ oraz $a=3$, a także dla pewnej pośredniej wartości $2<a<3$, obliczając tę granicę dla każdej z tych trzech wartości $a$ i przyjmując coraz mniejsze wartości $\Delta x=10^{-1}, 10^{-2}, \ldots, 10^{-6}$. Dla najmniejszej wartości $\Delta x = 10^{-6}$ obliczone wartości granic $C_a$ różnią się od wartości dowolnie dokładnych (dla $\Delta x\rightarrow0$) na ostatnim miejscu po przecinku (zaznaczonym w tab. 1 podkreśleniem).
+Zauważając, że granica $C_a$ jest funkcją podstawy $a$, w tab. 1 zbadano wartości tej granicy dla $a=2$ oraz $a=3$, a także dla pewnej pośredniej wartości $2<a<3$, obliczając tę granicę dla każdej z tych trzech wartości $a$ i przyjmując coraz mniejsze wartości $\Delta x=10^{-1}, 10^{-2}, \ldots, 10^{-6}$. Dla najmniejszej wartości $\Delta x = 10^{-6}$ obliczone wartości granic $C_a$ różnią się od wartości dowolnie dokładnych (dla $\Delta x\to 0$) na ostatnim miejscu po przecinku (zaznaczonym w tab. 1 nawiasem).
 				
 Zauważamy, że przy $\Delta x = 10^{-6}$, dla $a=2$ mamy $C_{a=2}<1$, a dla $a=3$ mamy $C_{a=3}>1$. Ponieważ $C_a$ jest funkcją ciągłą względem $a$ (wzór powyżej), więc pomiędzy krańcami $a=2$ i $a=3$ *musi* istnieć taka wartość $a$, dla której funkcja $C_{a}$ przyjmuje wartość $1$. 
 
