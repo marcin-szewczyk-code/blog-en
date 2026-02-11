@@ -98,7 +98,19 @@ assets/
 
 Jeśli generator tworzy plik `favicon-96x96.png`, należy zmienić jego nazwę na `favicon-32x32.png`, żeby była zgodna z wymaganiami motywu Chirpy.
 
-## Skrót w telefonie
+## Dodatkowe elementy konfiguracji
+
+### Dostosowanie motywu i struktury strony
+
+Edycja menu po lewej stronie (Kategorie, Tagi, Archiwum, O mnie) robiona jest poprzez pliki w katalogu `_tabs`. Na przykład usunięcie pliku `_tabs/tags.md` powoduje usunięcie *Tags* z lewego menu. Można też dodawać dodatkowe elementy tego menu.
+
+Awatar to wgranie zdjęcia do katalogu `/assets/img`, a następnie wskazanie jego ścieżki w `_config.yml`. Zdjęcie o wymiarach na przykład 512x512.
+
+Polska wersja językowa to plik `pl.yml` w katalogu `_data/locales` i wpis `lang: pl` w `_config.yml`.
+
+Ciekawy jest też sposób dodania pliku `_includes/head.html` i umieszczenia w nim kodu JavaScript (`.js`). Opisałem to przy okazji konfiguracji wzorów matematycznych LaTeX przy użyciu biblioteki MathJax. Podobnie w innym wpisie opisałem plik `_includes/footer.html`.
+
+### Skrót w telefonie
 
 Można utworzyć ikonę na ekranie telefonu (np. iPhone’a), która otwiera blog w trybie pełnoekranowym jak aplikację.
 
@@ -110,14 +122,3 @@ W Safari:
 - wybieram „Dodaj do ekranu początkowego”
 
 Jako ikona używana jest plik `/assets/img/favicons/apple-touch-icon.png` (zalecany rozmiar 180x180 px). Jeżeli plik nie istnieje, iOS wygeneruje ikonę automatycznie (zrzut strony).
-
-## Dodatkowe elementy konfiguracji
-
-Edycja menu po lewej stronie (Kategorie, Tagi, Archiwum, O mnie) robiona jest poprzez pliki w katalogu `_tabs`. Na przykład usunięcie pliku `_tabs/tags.md` powoduje usunięcie *Tags* z lewego menu. Można też dodawać dodatkowe elementy tego menu.
-
-Awatar to wgranie zdjęcia do katalogu `/assets/img`, a następnie wskazanie jego ścieżki w `_config.yml`. Zdjęcie o wymiarach na przykład 512x512.
-
-Polska wersja językowa to plik `pl.yml` w katalogu `_data/locales` i wpis `lang: pl` w `_config.yml`.
-
-Ciekawy jest też sposób dodania pliku `_includes/head.html` i umieszczenia w nim kodu JavaScript (`.js`). Opisałem to przy okazji konfiguracji wzorów matematycznych LaTeX przy użyciu biblioteki MathJax. Podobnie w innym wpisie opisałem plik `_includes/footer.html`.
-
