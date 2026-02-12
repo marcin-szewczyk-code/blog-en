@@ -14,8 +14,8 @@ W tym wpisie pokazuję przykład „Hello World” w pięciu modelach generowani
 
 - statyczny HTML — najprostszy model
 - renderowanie po stronie serwera: Server-Side Rendering (SSR) — podejście klasyczne
-- SSR z separacją warstw — podejście aplikacyjne
-- renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API
+- SSR z separacją warstw
+- renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API  — podejście aplikacyjne
 - generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
 
 Pierwsze z tych podejść — klasyczne SSR — stosowałem 20+ lat temu.
