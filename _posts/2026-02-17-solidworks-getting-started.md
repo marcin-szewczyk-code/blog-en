@@ -6,8 +6,6 @@ categories: [Tools]
 tags: [solidworks, cad, getting-started, certification]
 ---
 
-## Co to jest SolidWorks
-
 SolidWorks to program do komputerowego wspomagania projektowania (CAD, Computer-Aided Design), szeroko stosowany w inżynierii mechanicznej, m.in. w przemyśle elektroenergetycznym.
 
 Ten wpis to krótki „getting started” (pierwsze kroki): materiały szkoleniowe, certyfikacja i egzaminy.

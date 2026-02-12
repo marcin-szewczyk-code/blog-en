@@ -8,11 +8,11 @@ tags: [web, html, php, css, js, hello-world]
 
 Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowych 25+ lat temu i co się od tego czasu zmieniło. Wtedy używałem HTML, CSS, PHP i JavaScript, a także programów C++ uruchamianych na serwerze przez CGI. Byłem ciekawy, jak to wygląda dziś.
 
-Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, architektury, bibliotek, frameworków czy platformy hostingowej, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
+Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, architektury, bibliotek, frameworków czy platform hostingowych, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
 
 W tym wpisie pokazuję przykład „Hello World” w pięciu modelach generowania strony:
 1. statyczny HTML – najprostszy model
-2. renderowanie po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
+2. renderowanie PHP po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
 3. SSR z separacją warstw – podejście aplikacyjne
 4. renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API
 5. generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
