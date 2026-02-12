@@ -6,7 +6,7 @@ categories: [Web]
 tags: [web, html, php, css, js, hello-world]
 ---
 
-Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowych 20+ lat temu i co się od tego czasu zmieniło. Wtedy używałem HTML, CSS, PHP i JavaScript i jestem ciekawy, jak to wygląda dziś.
+Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowych 20+ lat temu i co się od tego czasu zmieniło. Wtedy używałem HTML, CSS, PHP i JavaScript i byłem ciekawy, jak to wygląda dziś.
 
 Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
 
