@@ -6,10 +6,7 @@ categories: [Environment]
 tags: [windows, environment, setup]
 ---
 
-
-## Dlaczego Windows
-
-Bo tylko dla Windows jest SolidWorks i PSCAD. A to są dla mnie programy podstawowe.
+Dlaczego Windows? – bo tylko dla Windows jest SolidWorks i PSCAD. A to są dla mnie programy podstawowe.
 
 Dlatego Windows jest u mnie głównym systemem roboczym.
 
