@@ -246,6 +246,6 @@ Różne modele odpowiadają na różne potrzeby:
 - CSR oddziela dane od interfejsu,
 - SSG upraszcza infrastrukturę i przyspiesza działanie.
 
-Ten blog działa w modelu SSG. Automatyzacja jest duża, ale fundament pozostaje ten sam – HTML, CSS i JavaScript nadal mają znaczenie. Różni się sposób generowania HTML. Zmieniły się niuanse tych języków w stosunku do 25+ lat temu, ale ich idea pozostała ta sama.
+Ten blog działa w modelu SSG. Automatyzacja jest duża, ale fundament pozostaje ten sam – HTML, CSS i JavaScript. Różni się sposób generowania HTML. Zmieniły się niuanse tych języków w stosunku do 25+ lat temu, ale ich idea pozostała ta sama.
 
-Ciekawe jest też to, że w tym blogu technologia zatoczyła koło – od statycznego HTML do zautomatyzowanego modelu SSG opartego na Jekyllu i GitHubie.
+Ciekawe jest też to, że w tym blogu technologia zatoczyła koło – od statycznego HTML do zautomatyzowanego statycznego modelu SSG opartego na Jekyllu i GitHubie.
