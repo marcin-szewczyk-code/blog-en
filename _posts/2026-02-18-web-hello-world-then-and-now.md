@@ -6,29 +6,30 @@ categories: [Web]
 tags: [web, html, php, css, js, hello-world]
 ---
 
-Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowych 20+ lat temu i co się od tego czasu zmieniło. Wtedy używałem HTML, CSS, PHP i JavaScript i byłem ciekawy, jak to wygląda dziś.
+Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowych 25+ lat temu i co się od tego czasu zmieniło. Wtedy używałem HTML, CSS, PHP i JavaScript i byłem ciekawy, jak to wygląda dziś.
 
-Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
+Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, architektury, bibliotek, frameworków czy platformy hostingowej, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
 
 W tym wpisie pokazuję przykład „Hello World” w pięciu modelach generowania strony:
+1. statyczny HTML – najprostszy model
+2. renderowanie po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
+3. SSR z separacją warstw – podejście aplikacyjne
+4. renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API
+5. generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
 
-- statyczny HTML – najprostszy model
-- renderowanie po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
-- SSR z separacją warstw
-- renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API  – podejście aplikacyjne
-- generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
-
-Pierwsze dwa z tych podejść – statyczny HTMI i klasyczne SSR – stosowałem 20+ lat temu.
+Pierwsze dwa z tych podejść – statyczny HTML i klasyczne SSR – stosowałem 25+ lat temu.
 
 Ten blog działa w ostatnim modelu – statycznym SSG – i jest w dużym stopniu zautomatyzowany.
 
-Do konfiguracji tego bloga potrzebne okazało się rozumienie tych samych podstaw, z których korzystałem 20+ lat temu.
+Do konfiguracji tego bloga potrzebne okazało się rozumienie tych samych podstaw, z których korzystałem 25+ lat temu.
 
 Fundament jest więc wciąż ten sam.
 
-## Statyczny HTML – najprostszy model
+## Model 1: Statyczny HTML – najprostszy model
 
-To najprostsza możliwa forma strony internetowej. Serwer nie wykonuje żadnego kodu. Przeglądarka pobiera gotowy plik HTML i wyświetla go.
+Tak to robiłem 25+ lat temu.
+
+To najprostsza możliwa forma strony internetowej. Serwer nie wykonuje żadnego kodu, jedynie serwuje statyczny kod HTML. Przeglądarka pobiera gotowy plik HTML i wyświetla go.
 
 Schemat: Browser → Serwer (plik HTML) → Browser.
 
@@ -51,11 +52,11 @@ Kod:
 
 HTML jest zapisany w pliku i nie zmienia się przy kolejnych żądaniach. To najprostszy, ale wciąż używany model.
 
-## Server-Side Rendering (SSR) – podejście klasyczne
+## Model 2: Server-Side Rendering (SSR) – podejście klasyczne
 
 Tak to robiłem 20+ lat temu.
 
-Przeglądarka wysyła żądanie do serwera. Serwer uruchamia kod (np. PHP), generuje HTML i odsyła gotową stronę do przeglądarki.
+Przeglądarka wysyła żądanie do serwera. Serwer uruchamia kod (np. PHP, dawniej także programy CGI, np. w C++), generuje HTML i odsyła gotową stronę do przeglądarki.
 
 Schemat: Browser → Serwer (PHP) → HTML → Browser.
 
@@ -82,7 +83,7 @@ Logika i generowanie HTML są tu w jednym miejscu. Kod wykonuje się na serwerze
 
 To proste i działa. W małych projektach wciąż jest wystarczające.
 
-## SSR z separacją warstw – podejście aplikacyjne
+## Model 3: SSR z separacją warstw – podejście aplikacyjne
 
 HTML nadal renderowany jest po stronie serwera, ale z wyraźnym podziałem odpowiedzialności.
 
@@ -126,7 +127,7 @@ Widok (view.php):
 
 HTML nadal powstaje na serwerze, ale kod jest uporządkowany. To podejście dobrze skaluje się w większych projektach.
 
-## Client-Side Rendering (CSR) + API
+## Model 4: Client-Side Rendering (CSR) + API
 
 Tu zmienia się miejsce generowania HTML. W tym modelu serwer przestaje generować HTML. Zamiast tego serwer dostarcza dane (backend), zwykle w formacie JSON. HTML budowany jest po stronie klienta, czyli w przeglądarce przez JavaScript (frontend).
 
@@ -184,7 +185,7 @@ fetch("api.php")
 </html>
 ```
 
-## Static Site Generation (SSG)
+## Model 5: Static Site Generation (SSG)
 
 Ten blog działa w tym modelu.
 
@@ -192,14 +193,16 @@ Tu dochodzi trzeci moment generowania HTML – build & deploy.
 
 W tym modelu HTML generowany jest w czasie budowania projektu, a nie przy każdym żądaniu użytkownika.
 
-Podczas budowania projektu generator (w tym blogu GitHub Pages) tworzy z niego statyczny plik HTML. Serwer nie wykonuje już żadnej logiki – jedynie wysyła gotowy plik na żądanie przeglądarki, która go wyświetla.
+Podczas budowania projektu generator (w tym blogu Jekyll uruchamiany przez GitHub Pages) tworzy statyczny plik HTML, który następnie publikowany jest na platformie hostingowej. Serwer nie wykonuje już żadnej logiki – jedynie wysyła gotowy plik (serwuje) na żądanie przeglądarki (klient), która go wyświetla.
 
 Schemat: Build & deploy → HTML → Serwer (statyczny) → Browser.
 
 Proces:
-- Uruchamiany jest proces build.
-- Powstaje plik HTML.
-- Serwer jedynie go serwuje.
+- Markdown (treść)
+- Generator (Jekyll)
+- Build (Jekyll generuje statyczne pliki HTML)
+- Hosting (GitHub Pages)
+- Przeglądarka
 
 Plik Markdown:
 
@@ -243,6 +246,6 @@ Różne modele odpowiadają na różne potrzeby:
 - CSR oddziela dane od interfejsu,
 - SSG upraszcza infrastrukturę i przyspiesza działanie.
 
-Ten blog działa w modelu SSG. Automatyzacja jest duża, ale fundament pozostaje ten sam – HTML, CSS i JavaScript nadal mają znaczenie. Różni się sposób generowania HTML. Zmieniły się niuanse tych języków w stosunku do 20+ lat temu, ale ich idea pozostała ta sama.
+Ten blog działa w modelu SSG. Automatyzacja jest duża, ale fundament pozostaje ten sam – HTML, CSS i JavaScript nadal mają znaczenie. Różni się sposób generowania HTML. Zmieniły się niuanse tych języków w stosunku do 25+ lat temu, ale ich idea pozostała ta sama.
 
 Ciekawe jest też to, że w tym blogu technologia zatoczyła koło – od statycznego HTML do zautomatyzowanego modelu SSG opartego na Jekyllu i GitHubie.
