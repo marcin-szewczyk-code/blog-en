@@ -11,11 +11,11 @@ Uciąłem pogawędkę z Chatem o tym, jak wyglądało programowanie stron webowy
 Mówi się, że w IT zmienia się dużo, szybko i często. Zaskakująco dużo jednak zostaje. Niezależnie od narzędzi, architektury, bibliotek, frameworków czy platform hostingowych, strona internetowa wciąż jest HTML-em wysłanym do przeglądarki.
 
 W tym wpisie pokazuję przykład „Hello World” w pięciu modelach generowania strony:
-1. statyczny HTML – najprostszy model
-2. renderowanie PHP po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
+1. Statyczny HTML – najprostszy model
+2. Renderowanie PHP po stronie serwera: Server-Side Rendering (SSR) – podejście klasyczne
 3. SSR z separacją warstw – podejście aplikacyjne
-4. renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API
-5. generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
+4. Renderowanie w przeglądarce z wykorzystaniem API: Client-Side Rendering (CSR) + API
+5. Generowanie strony w czasie budowania projektu: Static Site Generation (SSG)
 
 Pierwsze dwa z tych podejść – statyczny HTML i klasyczne SSR – stosowałem 25+ lat temu.
 
