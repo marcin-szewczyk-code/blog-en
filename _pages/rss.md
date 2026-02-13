@@ -6,8 +6,6 @@ permalink: /rss/
 
 Ten blog ma kanał RSS (Atom), który możesz dodać do czytnika (np. Feedly, Inoreader).
 
-RSS to standardowy format umożliwiający śledzenie aktualizacji stron internetowych w specjalnych czytnikach. Nowe wpisy pojawiają się tam automatycznie po publikacji.
-
 W ten sposób możesz otrzymywać informacje o nowych wpisach na tym blogu.
 
 ## Adres kanału:
@@ -27,3 +25,4 @@ RSS działa w czytnikach takich jak:
 - Rozszerzenie RSS do Chrome lub Edge
 - inne aplikacje obsługujące kanały Atom/RSS
 
+RSS to standardowy format umożliwiający śledzenie aktualizacji stron internetowych w specjalnych czytnikach. Nowe wpisy pojawiają się tam automatycznie po publikacji.

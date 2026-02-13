@@ -28,6 +28,13 @@
     {% endif %}
   </p>
 
+
+    <span class="ms-3">
+      <a href="/rss/">
+        <i class="fas fa-rss"></i> Subskrybuj RSS
+      </a>
+    </span>
+
   <p>
     {%- capture _platform -%}
       <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
@@ -58,11 +65,7 @@
       | replace: ':PRIVACY', _privacy
     }}
 
-    <span class="ms-3">
-      <a href="/feed.xml">
-        <i class="fas fa-rss"></i> Subskrybuj RSS
-      </a>
-    </span>
+    
     
   </p>
 </footer>
