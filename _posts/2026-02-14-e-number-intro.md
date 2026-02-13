@@ -6,7 +6,7 @@ categories: [Mathematics]
 tags: [math, e]
 ---
 
-Idziemy teraz „z grubej rury”. Odpoczywamy od instalacji i konfiguracji i zanurzamy się w odrobinę ciekawej, prostej matematyki.
+Idziemy teraz z grubej rury. Odpoczywamy od instalacji i konfiguracji i zanurzamy się w odrobinę ciekawej, prostej matematyki.
 
 > **Źródło** Ten wpis jest dostosowanym do bloga rozdziałem mojej książki: M. Szewczyk, *[Metody analityczne w obliczeniach procesów łączeniowych w systemie elektroenergetycznym](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*, OWPW 2024.
 

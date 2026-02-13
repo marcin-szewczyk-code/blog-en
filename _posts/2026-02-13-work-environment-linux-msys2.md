@@ -103,6 +103,20 @@ Przykładowe użycie:
 magick input.png -gravity center -crop 1:1 -resize 512x512 output.png
 ```
 
+Przykład jak zrobić screenshota do umieszczenia w dokumentacji README.md na GitHubie:
+
+1) Otwórz stronę, następnie:
+- F12 → DevTools
+- Ctrl+Shift+P
+- Wpisz: screenshot
+- Wybierz: Capture full size screenshot
+
+2) Użyj magicka:
+
+```bash
+magick screenshot-raw.png   -resize 500x   -bordercolor white -border 10   -alpha set   \( +clone -background black -shadow 40x3+0+2 \)   +swap -background none -compose over -composite   -strip -quality 92   screenshot.png
+```
+
 ## Podsumowanie
 
 Minimalne środowisko z narzędziami unixowymi do pracy pod Windows:
