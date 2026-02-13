@@ -259,7 +259,7 @@ Efekt można zobaczyć tutaj:
 
 👉 [https://blog.marcinszewczyk.net/rss/](https://blog.marcinszewczyk.net/rss/)
 
-Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS:
+Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
 
 ![Widok kanału RSS bloga w czytniku na iPhone](/assets/posts/{{ page.post_id }}/rss-feed-in-app.jpg)
 ***Rys. 2.** Widok kanału RSS bloga w czytniku na iPhone.*
