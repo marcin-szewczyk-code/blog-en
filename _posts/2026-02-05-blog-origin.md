@@ -13,4 +13,6 @@ Kupiłem domenę, stworzyłem repozytorium Jekylla na GitHubie, wystawiłem cał
 
 Blog powstaje z markdowna, wypychanego do gita z poziomu VS Code. Jest statyczny i to jest super. Ma fajne wtyczki, jak biblioteka JavaScript MathJax do LaTeXa. Robię commit i push i działa to świetnie. Chirpy będę mógł zmienić, jeśli spodoba mi się inne, bo cała treść jest tworzona w markdownie.
 
+Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
+
 Ciekaw jestem, czy będę tu umieszczał wpisy w wolnych chwilach.

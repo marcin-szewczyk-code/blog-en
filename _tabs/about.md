@@ -12,8 +12,6 @@ Z tego co pamiętam, to nie było wtedy Google i paru innych rzeczy.
 
 Teraz trochę wracam do tej zabawy.
 
-Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
-
 Tu jest pierwszy wpis o tym [Jak powstał ten blog](/posts/blog-origin/).
 
 Możliwe, że będę tu umieszczał kolejne wpisy w wolnych chwilach.
