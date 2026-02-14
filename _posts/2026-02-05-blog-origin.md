@@ -7,6 +7,8 @@ tags: [blog, jekyll, personal]
 pin: true
 ---
 
+![Opis]({{ '/assets/posts/' | append: page.post_id | append: '/test.jpg' | relative_url }})
+
 Ten blog powstał tak, że poszedłem na obiad z informatykiem i dosiadł się automatyk. Była z tego fajna rozmowa. Dowiedziałem się, że jest coś takiego jak Jekyll i że jest świetny. Skonfigurowałem go sobie, dodałem szablon Chirpy i trochę automatyzacji w Pythonie.
 
 Kupiłem domenę, stworzyłem repozytorium Jekyll-Chirpy na GitHubie, wystawiłem całość jako GitHub Pages i ustawiłem przekierowanie z domeny. I tak to powstało.
