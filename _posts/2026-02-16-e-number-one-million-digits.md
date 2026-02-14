@@ -23,12 +23,12 @@ GMP (GNU Multiple Precision Arithmetic Library) to biblioteka do obliczeń na li
 ## Obliczanie liczby $e$ z szeregu Taylora
 
 Tutaj zamieściłem dwa kody:
-- zwykłe C, bez GMP, oblicza $e$ do dziesięciu miejsc po przecinku: [e_number.c](/assets/posts/{{ page.post_id }}/e_number.c)
-- analogiczny kod z GMP, oblicza $e$ do miliona miejsc po przecinku: [e_number_gmp.c](/assets/posts/{{ page.post_id }}/e_number_gmp.c)
+- zwykłe C, bez GMP, oblicza $e$ do dziesięciu miejsc po przecinku: [e_number.c]({{ '/assets/posts/' | append: page.post_id | append: '/e-number.c' | relative_url }})
+- analogiczny kod z GMP, oblicza $e$ do miliona miejsc po przecinku: [e_number_gmp.c]({{ '/assets/posts/' | append: page.post_id | append: '/e-number-gmp.c' | relative_url }})
 
 Wynikiem kodu `e_number.c` jest liczba $e=2.7182818284$..
 
-Wynikiem kodu `e_number_gmp.c` jest liczba $e$ z milionem miejsc po przecinku, zapisana w pliku [e_number_gmp.txt](/assets/posts/{{ page.post_id }}/e_number_gmp.txt). Pierwsze 1000 z miliona cyfr po przecinku wygląda tak:
+Wynikiem kodu `e_number_gmp.c` jest liczba $e$ z milionem miejsc po przecinku, zapisana w pliku [e_number_gmp.txt]({{ '/assets/posts/' | append: page.post_id | append: '/e_number_gmp.txt' | relative_url }}). Pierwsze 1000 z miliona cyfr po przecinku wygląda tak:
 
 ```txt
 e = 2.718281828459045235360287471352662497757247093699959574966967627724076630353545
@@ -50,11 +50,11 @@ Jest więcej takich obliczeń, np. w projekcie
 wraz z dużymi rekordami wyników dla $e$, $\pi$ i innych stałych.
 
 Zrobiłem też kiedyś skład w LaTeX-u ciekawej książki na ten temat i napisałem do niej przedmowę:
-[Number e to Approximately 1 Million Places](/assets/posts/{{ page.post_id }}/number_e_to_approximately_1_million_places.pdf).
+[Number e to Approximately 1 Million Places]({{ '/assets/posts/' | append: page.post_id | append: '/number_e_to_approximately_1_million_places.pdf' | relative_url }}).
 
 ## Kod w C (bez GMP)
 
-Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c](/assets/posts/{{ page.post_id }}/e_number.c):
+Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c]({{ '/assets/posts/' | append: page.post_id | append: '/e-number.c' | relative_url }}):
 
 ```c
 #include <stdio.h>

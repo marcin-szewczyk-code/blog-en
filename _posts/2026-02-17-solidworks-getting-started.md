@@ -10,7 +10,7 @@ Ten blog powstał między innymi po to, żeby opisywać tego typu narzędzia in�
 
 Ten wpis to krótki „getting started” (pierwsze kroki): materiały szkoleniowe, certyfikacja i egzaminy.
 
-![Solidworks](/assets/posts/{{ page.post_id }}/solidworks-logo.png)
+![Solidworks]({{ '/assets/posts/' | append: page.post_id | append: '/solidworks-logo.png' | relative_url }})
 ***Rys. 1.** SolidWorks.*
 
 ## Materiały szkoleniowe i certyfikacja
@@ -35,10 +35,10 @@ Kursy dedykowane do przygotowania do certyfikacji są tutaj:
 
 Po zainstalowaniu i uruchomieniu SolidWorks pojawia się główne okno programu z panelem startowym. Warto rozpocząć naukę od samouczków, klikając przycisk widoczny na rysunku.
 
-![SolidWorks – pierwsze uruchomienie](/assets/posts/{{ page.post_id }}/solidworks-panel-startowy.png)
+![SolidWorks – pierwsze uruchomienie]({{ '/assets/posts/' | append: page.post_id | append: '/solidworks-panel-startowy.png' | relative_url }})
 ***Rys. 2.** SolidWorks – panel startowy.*
 
-![SolidWorks – pierwsze uruchomienie](/assets/posts/{{ page.post_id }}/solidworks-okno-glowne.png)
+![SolidWorks – pierwsze uruchomienie]({{ '/assets/posts/' | append: page.post_id | append: '/solidworks-okno-glowne.png' | relative_url }})
 ***Rys. 3.** SolidWorks – główne okno po pierwszym uruchomieniu.*
 
 ## Certyfikacja (CSWA)

@@ -24,7 +24,7 @@ Instaluję go stąd: [https://www.msys2.org/](https://www.msys2.org/)
 
 Po zainstalowaniu pojawiają się trzy elementy (rys. 1).
 
-![MSYS2 po instalacji](/assets/posts/{{ page.post_id }}/MSYS2_01.png)
+![MSYS2 po instalacji]({{ '/assets/posts/' | append: page.post_id | append: '/MSYS2_01.png' | relative_url }})
 ***Rys. 1.** Wynik instalacji MSYS2: MSYS, MINGW64, UCRT64.*
 
 MSYS służy głównie do zarządzania pakietami. MINGW64 i UCRT64 pozwalają budować natywne pliki `.exe` dla Windowsa. Korzystam z MINGW64, bo jest prostsze od UCRT64 i wystarczające.
@@ -74,7 +74,7 @@ gcc hello.c -o hello
 ./hello
 ```
 
-Plik: [hello.c](/assets/posts/{{ page.post_id }}/hello.c).
+Plik: [hello.c]({{ '/assets/posts/' | append: page.post_id | append: '/hello.c' | relative_url }}).
 
 ### Instalacja ImageMagick
 

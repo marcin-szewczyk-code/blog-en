@@ -139,7 +139,7 @@ Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
 Efektem jest zmodyfikowana stopka bloga:
   
-![Stopka bloga](/assets/posts/{{ page.post_id }}/footer.png)
+![Stopka bloga]({{ '/assets/posts/' | append: page.post_id | append: '/footer.png' | relative_url }})
 ***Rys. 1.** Stopka bloga.*
 
 ### Test zbierania danych
@@ -254,7 +254,7 @@ Efekt można zobaczyć tutaj:
 
 Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
 
-![Widok kanału RSS bloga w czytniku na iPhone](/assets/posts/{{ page.post_id }}/rss-feed-in-app.jpg)
+![Widok kanału RSS bloga w czytniku na iPhone]({{ '/assets/posts/' | append: page.post_id | append: '/rss-feed-in-app.jpg' | relative_url }})
 ***Rys. 2.** Widok kanału RSS bloga w czytniku na iPhone.*
 
 Robię → działa → jest fajnie.

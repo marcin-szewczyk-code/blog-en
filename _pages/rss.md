@@ -31,5 +31,5 @@ Rozwiązanie to jest szczególnie przydatne w przypadku mniejszych, niezależnyc
 
 Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
 
-![Widok kanału RSS bloga w czytniku na iPhone](/assets/pages/{{ page.post_id }}/rss-feed-in-app.jpg)
+![Widok kanału RSS bloga w czytniku na iPhone]({{ '/assets/posts/' | append: page.post_id | append: '/rss-feed-in-app.jpg' | relative_url }})
 ***Rys. 1.** Widok kanału RSS bloga w czytniku na iPhone.*
