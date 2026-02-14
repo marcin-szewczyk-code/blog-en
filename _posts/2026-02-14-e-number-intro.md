@@ -1,6 +1,5 @@
 ---
 title: "Liczba „e” (1/3): Skąd się bierze i dlaczego jest ważna"
-post_id: e-number-intro
 date: 2026-02-14 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e]

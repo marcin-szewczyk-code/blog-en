@@ -1,6 +1,5 @@
 ---
 title: "Jak powstał ten blog"
-post_id: blog-origin
 date: 2026-02-05 15:00:00 +0100
 categories: [Blog]
 tags: [blog, jekyll, personal]

@@ -1,12 +1,9 @@
 ---
 title: "Liczba „e” (3/3): Z dokładnością do miliona miejsc po przecinku"
-post_id: e-number-one-million-digits
 date: 2026-02-16 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e, taylor-series, c, gmp]
 ---
-
-{% assign post_assets_path = site.baseurl | append: '/assets/posts/' | append: page.post_id %}
 
 ## Szereg Taylora funkcji $e^x$
 
@@ -25,12 +22,12 @@ GMP (GNU Multiple Precision Arithmetic Library) to biblioteka do obliczeń na li
 ## Obliczanie liczby $e$ z szeregu Taylora
 
 Tutaj zamieściłem dwa kody:
-- zwykłe C, bez GMP, oblicza $e$ do dziesięciu miejsc po przecinku: [e_number.c]({{ post_assets_path }}/e_number.c)
-- analogiczny kod z GMP, oblicza $e$ do miliona miejsc po przecinku: [e_number_gmp.c]({{ post_assets_path }}/e_number_gmp.c)
+- zwykłe C, bez GMP, oblicza $e$ do dziesięciu miejsc po przecinku: [e_number.c](../../assets/posts/e-number-one-million-digits/e_number.c)
+- analogiczny kod z GMP, oblicza $e$ do miliona miejsc po przecinku: [e_number_gmp.c](../../assets/posts/e-number-one-million-digits/e_number_gmp.c)
 
 Wynikiem kodu `e_number.c` jest liczba $e=2.7182818284$..
 
-Wynikiem kodu `e_number_gmp.c` jest liczba $e$ z milionem miejsc po przecinku, zapisana w pliku [e_number_gmp.txt]({{ post_assets_path }}/e_number_gmp.txt). Pierwsze 1000 z miliona cyfr po przecinku wygląda tak:
+Wynikiem kodu `e_number_gmp.c` jest liczba $e$ z milionem miejsc po przecinku, zapisana w pliku [e_number_gmp.txt](../../assets/posts/e-number-one-million-digits/e_number_gmp.txt). Pierwsze 1000 z miliona cyfr po przecinku wygląda tak:
 
 ```txt
 e = 2.718281828459045235360287471352662497757247093699959574966967627724076630353545
@@ -52,11 +49,11 @@ Jest więcej takich obliczeń, np. w projekcie
 wraz z dużymi rekordami wyników dla $e$, $\pi$ i innych stałych.
 
 Zrobiłem też kiedyś skład w LaTeX-u ciekawej książki na ten temat i napisałem do niej przedmowę:
-[Number e to Approximately 1 Million Places]({{ post_assets_path }}/number_e_to_approximately_1_million_places.pdf).
+[Number e to Approximately 1 Million Places](../../assets/posts/e-number-one-million-digits/number_e_to_approximately_1_million_places.pdf).
 
 ## Kod w C (bez GMP)
 
-Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c]({{ post_assets_path }}/e_number.c):
+Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c](../../assets/posts/e-number-one-million-digits/e_number.c):
 
 ```c
 #include <stdio.h>

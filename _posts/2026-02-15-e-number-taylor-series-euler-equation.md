@@ -1,6 +1,5 @@
 ---
 title: "Liczba „e” (2/3): Szereg Taylora i wzór Eulera"
-post_id: e-number-taylor-series-euler-equation
 date: 2026-02-15 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e, taylor-series, euler]

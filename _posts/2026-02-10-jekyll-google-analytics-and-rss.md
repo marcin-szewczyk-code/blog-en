@@ -1,6 +1,5 @@
 ---
 title: "Blog Jekyll (5/6): Google Analytics i RSS"
-post_id: jekyll-google-analytics-and-rss
 date: 2026-02-10 07:00:00 +0100
 categories: [Blog]
 tags: [blog, jekyll, google-analytics, rss, setup]
@@ -139,7 +138,7 @@ Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
 Efektem jest zmodyfikowana stopka bloga:
   
-![Stopka bloga]({{ 'assets/posts/' | append: page.post_id | append: '/footer.png' }})
+![Stopka bloga](../../assets/posts/jekyll-google-analytics-and-rss/footer.png)
 ***Rys. 1.** Stopka bloga.*
 
 ### Test zbierania danych
@@ -261,7 +260,7 @@ Efekt można zobaczyć tutaj:
 
 Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
 
-![Widok kanału RSS bloga w czytniku na iPhone]({{ 'assets/posts/' | append: page.post_id | append: '/rss-feed-in-app.jpg' }})
+![Widok kanału RSS bloga w czytniku na iPhone](../../assets/posts/jekyll-google-analytics-and-rss/rss-feed-in-app.jpg)
 ***Rys. 2.** Widok kanału RSS bloga w czytniku na iPhone.*
 
 Robię → działa → jest fajnie.

@@ -1,6 +1,5 @@
 ---
 title: "Blog Jekyll (2/6): Jak robić wpisy na blogu – Markdown „Hello World” w Jekyllu"
-post_id: jekyll-markdown-hello-world
 date: 2026-02-07 07:00:00 +0100
 categories: [Blog]
 tags: [blog, jekyll, hello-world]
@@ -62,7 +61,7 @@ W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `p
 
 {% raw %}
 ```markdown
-[Podpis]({{ 'assets/posts/' | append: page.post_id | append: '/cauchy.png' }})
+[Podpis](../../assets/posts/jekyll-markdown-hello-world/cauchy.png)
 ```
 {% endraw %}
 
@@ -102,7 +101,7 @@ Są używane do spisu treści, kotwic i SEO (*Search Engine Optimization*):
 
 Taki rysunek:
 
-![Twierdzenie Cauchy’ego]({{ 'assets/posts/' | append: page.post_id | append: '/cauchy.png' }})
+![Twierdzenie Cauchy’ego](../../assets/posts/jekyll-markdown-hello-world/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 
 Taki kod:
@@ -110,7 +109,7 @@ Taki kod:
 {% raw %}
 ```markdown
 <!-- uwaga na brak pustej linii pomiędzy rysunkiem a podpisem! -->
-![Twierdzenie Cauchy’ego]({{ 'assets/posts/' | append: page.post_id | append: '/cauchy.png' }})
+![Twierdzenie Cauchy’ego](../../assets/posts/jekyll-markdown-hello-world/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 ```
 {% endraw %}
