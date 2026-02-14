@@ -56,7 +56,7 @@ Zrobiłem też kiedyś skład w LaTeX-u ciekawej książki na ten temat i napisa
 
 ## Kod w C (bez GMP)
 
-Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c]({{ post_assets_path }}/e-number.c):
+Prosty kod w C bez GMP, który sam się tłumaczy, z pliku [e_number.c]({{ post_assets_path }}/e_number.c):
 
 ```c
 #include <stdio.h>
