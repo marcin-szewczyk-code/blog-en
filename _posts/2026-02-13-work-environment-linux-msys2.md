@@ -26,6 +26,8 @@ Instaluję go stąd: [https://www.msys2.org/](https://www.msys2.org/)
 
 Po zainstalowaniu pojawiają się trzy elementy (rys. 1).
 
+Plik: [hello.c]({{ post_assets_path }}/hello.c).
+
 ![MSYS2 po instalacji]({{ post_assets_path }}/MSYS2_01.png)
 ***Rys. 1.** Wynik instalacji MSYS2: MSYS, MINGW64, UCRT64.*
 
