@@ -62,7 +62,7 @@ W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `p
 
 {% raw %}
 ```markdown
-[Podpis](/assets/posts/{{ page.post_id }}/cauchy.png)
+[Podpis]({{ 'assets/posts/' | append: page.post_id | append: '/cauchy.png' }})
 ```
 {% endraw %}
 
