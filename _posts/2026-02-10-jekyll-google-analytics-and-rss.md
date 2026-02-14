@@ -139,7 +139,7 @@ Powyżej tego kodu dodaję definicję zmiennej `_privacy`:
 
 Efektem jest zmodyfikowana stopka bloga:
   
-![Stopka bloga]({{ '/assets/posts/' | append: page.post_id | append: '/footer.png' | relative_url }})
+![Stopka bloga](assets/posts/{{ page.post_id }}/footer.png)
 ***Rys. 1.** Stopka bloga.*
 
 ### Test zbierania danych
@@ -194,6 +194,13 @@ Od tego momentu lokalne wersje plików nadpisują wersje z gema i można je mody
 
 Dodałem:
 
+```html
+<span class="ms-3">
+  <a href="/rss/">
+    <i class="fas fa-rss"></i> Subskrybuj RSS
+  </a>
+</span>
+```
 
 ### Kod w topbarze (`_includes/topbar.html`)
 
@@ -254,7 +261,7 @@ Efekt można zobaczyć tutaj:
 
 Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
 
-![Widok kanału RSS bloga w czytniku na iPhone]({{ '/assets/posts/' | append: page.post_id | append: '/rss-feed-in-app.jpg' | relative_url }})
+![Widok kanału RSS bloga w czytniku na iPhone](assets/posts/{{ page.post_id }}/rss-feed-in-app.jpg)
 ***Rys. 2.** Widok kanału RSS bloga w czytniku na iPhone.*
 
 Robię → działa → jest fajnie.

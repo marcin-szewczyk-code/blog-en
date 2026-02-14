@@ -62,7 +62,7 @@ W treści wpisu odwołuję się do nich przez ścieżkę budowaną z użyciem `p
 
 {% raw %}
 ```markdown
-[Podpis]({{ '/assets/posts/' | append: page.post_id | append: '/cauchy.png' | relative_url }})
+[Podpis](assets/posts/{{ page.post_id }}/cauchy.png)
 ```
 {% endraw %}
 
@@ -102,7 +102,7 @@ Są używane do spisu treści, kotwic i SEO (*Search Engine Optimization*):
 
 Taki rysunek:
 
-![Twierdzenie Cauchy’ego]({{ '/assets/posts/' | append: page.post_id | append: '/cauchy.png' | relative_url }})
+![Twierdzenie Cauchy’ego](assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 
 Taki kod:
@@ -110,7 +110,7 @@ Taki kod:
 {% raw %}
 ```markdown
 <!-- uwaga na brak pustej linii pomiędzy rysunkiem a podpisem! -->
-![Twierdzenie Cauchy’ego]({{ '/assets/posts/' | append: page.post_id | append: '/cauchy.png' | relative_url }})
+![Twierdzenie Cauchy’ego](assets/posts/{{ page.post_id }}/cauchy.png)
 ***Rys. 1.** Interpretacja geometryczna twierdzenia Cauchy’ego.*
 ```
 {% endraw %}
