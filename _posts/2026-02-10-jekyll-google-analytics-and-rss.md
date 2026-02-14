@@ -194,13 +194,6 @@ Od tego momentu lokalne wersje plików nadpisują wersje z gema i można je mody
 
 Dodałem:
 
-```html
-    <span class="ms-3">
-      <a href="{{ '/rss/' | relative_url }}">
-        <i class="fas fa-rss"></i> Subskrybuj RSS
-      </a>
-    </span>
-```
 
 ### Kod w topbarze (`_includes/topbar.html`)
 
