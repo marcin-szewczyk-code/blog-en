@@ -1,4 +1,4 @@
-# marcin-szewczyk-code.github.io
+# blog-pl
 
 Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
 
