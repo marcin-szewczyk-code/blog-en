@@ -10,7 +10,7 @@
 #baseurl: "/blog"
 
 url: "https://marcin-szewczyk-code.github.io"
-baseurl: "/blog-pl"
+baseurl: ""
 
 #url: "https://blog.marcinszewczyk.net"
 #baseurl: ""
