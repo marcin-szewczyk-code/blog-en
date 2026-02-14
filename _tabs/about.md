@@ -12,6 +12,7 @@ Z tego co pamiętam, to nie było wtedy Google i paru innych rzeczy.
 
 Teraz trochę wracam do tej zabawy.
 
-Tu jest pierwszy wpis o tym [Jak powstał ten blog]({{ '/posts/blog-origin/' | relative_url }}).
+Tu jest pierwszy wpis o tym [Jak powstał ten blog](/posts/blog-origin/).
+
 
 Możliwe, że będę tu umieszczał kolejne wpisy w wolnych chwilach.
