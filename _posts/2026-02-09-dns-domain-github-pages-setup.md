@@ -35,7 +35,7 @@ Te przekierowania powodują, że wejście na [https://marcinszewczyk.net/](https
 
 Czas propagacji: kilka do kilkudziesięciu minut (czasem dłużej).
 
-![Podpis](assets/posts/{{ page.post_id }}/domain-redirections.png)
+![Konfiguracja przekierowań w panelu operatora domeny](assets/posts/{{ page.post_id }}/domain-redirections.png)
 ***Rys. 1.** Ekran konfiguracji przekierowań w panelu operatora domeny.*
 
 ## Konfiguracja DNS dla subdomeny blog
@@ -54,7 +54,7 @@ Od tej chwili DNS kieruje ruch z `blog.marcinszewczyk.net` bezpośrednio do GitH
 
 Końcowa kropka w nazwie docelowej jest poprawna.
 
-![Podpis](assets/posts/{{ page.post_id }}/domain-dns.png)
+![Konfiguracja DNS w panelu operatora domeny](assets/posts/{{ page.post_id }}/domain-dns.png)
 ***Rys. 2.** Ekran konfiguracji DNS w panelu operatora domeny.*
 
 ## Ustawienia GitHub Pages
@@ -78,7 +78,7 @@ Po poprawnej konfiguracji w zakładce Pages widzimy komunikat: Your site is live
 
 GitHub Pages serwuje treść bloga pod tym adresem.
 
-![Podpis](assets/posts/{{ page.post_id }}/github-pages-setup.png)
+![Konfiguracja GitHub Pages z podpiętą domeną i HTTPS](assets/posts/{{ page.post_id }}/github-pages-setup.png)
 ***Rys. 3.** Ekran konfiguracji GitHub Pages z podpiętą domeną i HTTPS.*
 
 ## Sprawdzenie konfiguracji
