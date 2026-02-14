@@ -6,6 +6,8 @@ categories: [Environment]
 tags: [linux, environment, setup, msys2]
 ---
 
+{% assign post_assets_path = site.baseurl | append: '/assets/posts/' | append: page.post_id %}
+
 Pierwsze co warto zrobić w Windowsie, to zainstalować w nim Linuxa. Poniżej opisuję minimalną konfigurację opartą o MSYS2.
 
 MSYS2 to środowisko z narzędziami linuxowymi na Windowsie. Nazwa pochodzi od „Minimal SYStem”, generacja 2.
@@ -74,7 +76,7 @@ gcc hello.c -o hello
 ./hello
 ```
 
-Plik: [hello.c]({{ 'assets/posts/' | append: page.post_id | append: '/hello.c' }}).
+Plik: [hello.c]({{ post_assets_path }}/hello.c).
 
 ### Instalacja ImageMagick
 
