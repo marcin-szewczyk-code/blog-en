@@ -196,7 +196,7 @@ Dodałem:
 
 ```html
 <span class="ms-3">
-  <a href="/rss/">
+  <a href="{{ '/rss/' | relative_url }}">
     <i class="fas fa-rss"></i> Subskrybuj RSS
   </a>
 </span>
