@@ -34,8 +34,8 @@ timezone: "Europe/Warsaw"
 # ↓ --------------------------
 
 title: "Marcin Szewczyk"
-tagline: "Notes on code, mathematics, simulations." # it will display as the subtitle
-description: Notes on programming, mathematics, and building a blog with Jekyll. # used by seo meta and the atom feed
+tagline: "Notes on code, mathematics, engineering simulations." # it will display as the subtitle
+description: Notes on code, mathematics, engineering simulations, and Jekyll-based blogging on GitHub.
 
 #description: >- # used by seo meta and the atom feed
 #  Notatki i zapiski o programowaniu, matematyce i budowie bloga w Jekyllu.
