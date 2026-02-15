@@ -4,15 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Zacząłem bawić się Internetem jakieś 30 lat temu, w pierwszej polskiej domenie: ```fuw.edu.pl```, czyli w miejscu, gdzie powstawał polski Internet. Ciekawie było tam wtedy być.
+I started playing with the Internet about 30 years ago, in the first Polish domain: ```fuw.edu.pl```. It was an interesting time to be there.
 
-Potem trochę bawiłem się stronami statycznymi i dynamicznymi -- najpierw trochę na ```fuw.edu.pl```, potem bardziej na ```ee.pw.edu.pl```. Strony statyczne robiłem w ```HTML```, a dynamiczne w ```C++```, i wysyłałem je do przeglądarki przez ```CGI```. Później przepisywałem je w ```PHP``` i dokładałem ```CSS```. Ciekawy był też ```LaTeX```.
+Later, I experimented a bit with static and dynamic websites – first on ```fuw.edu.pl```, then a bit more on ```ee.pw.edu.pl```. I built static pages in ```HTML```, and dynamic ones in ```C++```, sending them to the browser via ```CGI```. Later I rewrote them in ```PHP``` and added ```CSS```. ```LaTeX``` was also part of the adventure.
 
-Z tego co pamiętam, to nie było wtedy Google i paru innych rzeczy.
+As far as I remember, there was no Google back then – and a few other things didn’t exist either.
 
-Teraz trochę wracam do tej zabawy.
+Now I’m coming back to this.
 
-Tu jest pierwszy wpis o tym [Jak powstał ten blog](/posts/blog-origin/).
+Here is the first post about it: [How This Blog Started](/posts/blog-origin/).
 
-
-Możliwe, że będę tu umieszczał kolejne wpisy w wolnych chwilach.
+Maybe I’ll publish more entries here from time to time.

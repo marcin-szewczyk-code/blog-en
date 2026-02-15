@@ -5,31 +5,31 @@ permalink: /rss/
 post_id: rss
 ---
 
-Ten blog ma kanał **RSS (Atom)**, który możesz dodać do czytnika (np. Feedly, Inoreader).
+This blog provides an **RSS (Atom)** feed that you can add to a reader (e.g. Feedly, Inoreader).
 
-W ten sposób możesz otrzymywać informacje o nowych wpisach na tym blogu:
+In this way, you can receive notifications about new posts published on this blog:
 
-- Adres kanału: /feed.xml
-- Możesz też po prostu otworzyć feed: [Otwórz feed.xml](/feed.xml)
+- Feed address: /feed.xml
+- You can also simply open the feed: Open [feed.xml](/feed.xml)
 
-> Po otwarciu zobaczysz plik XML – to normalne. Kanał jest przeznaczony dla czytników RSS, a nie do bezpośredniego czytania w przeglądarce.
+> After opening it, you will see an XML file – this is normal. The feed is intended for RSS readers, not for direct reading in a web browser.
 
-## Jak korzystać z kanału RSS
+## How to use the RSS feed
 
-Kanał możesz dodać do aplikacji takich jak:
-- Feedly (czytnik działający w przeglądarce)
-- NetNewsWire (popularny na macOS / iOS)
-- Mozilla Thunderbird (klient poczty z obsługą RSS)
-- rozszerzenia RSS dla Chrome lub Edge
-- dowolne inne aplikacje obsługujące kanały Atom/RSS
+You can add the feed to applications such as:
+- Feedly (a browser-based reader)
+- NetNewsWire (popular on macOS / iOS)
+- Mozilla Thunderbird (an email client with RSS support)
+- RSS extensions for Chrome or Edge
+- any other application that supports Atom/RSS feeds
 
-**RSS** (*Really Simple Syndication*) to standardowy format umożliwiający śledzenie aktualizacji stron internetowych w specjalnych czytnikach. Nowe wpisy pojawiają się w nich automatycznie po publikacji.
+**RSS** (*Really Simple Syndication*) is a standard format that allows one to follow website updates in dedicated readers. New posts appear automatically after they are published.
 
-Rozwiązanie to jest szczególnie przydatne w przypadku mniejszych, niezależnych stron internetowych, które nie korzystają z wbudowanych systemów subskrypcji (np. newslettera czy powiadomień e-mail).
+This solution is especially useful for **smaller, independent websites** that do not use built-in subscription systems (such as newsletters or email notifications).
 
-## Jak to wygląda w aplikacji RSS
+## How it looks in an RSS app
 
-Poniżej przykład, jak wygląda kanał RSS tego bloga w aplikacji RSS na iPhone:
+Below is an example of how this blog’s RSS feed looks in an RSS application on an iPhone:
 
-![Widok kanału RSS bloga w czytniku na iPhone](/assets/pages/rss/rss-feed-in-app.jpg)
-***Rys. 1.** Widok kanału RSS bloga w czytniku na iPhone.*
+![View of the blog’s RSS feed in a reader on iPhone](/assets/pages/rss/rss-feed-in-app.jpg)
+***Fig. 1.** View of the blog’s RSS feed in a reader on iPhone.*

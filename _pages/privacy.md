@@ -4,10 +4,10 @@ layout: page
 permalink: /privacy/
 ---
 
-Strona wykorzystuje Google Analytics (GA4) w celu statystycznym
-(zliczanie odsłon i ogólne informacje o korzystaniu).
+The website uses Google Analytics (GA4) for statistical purposes
+(counting page views and general usage information).
 
-Dane zbierane przez Google Analytics są przetwarzane zgodnie z polityką
-Google: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+Data collected by Google Analytics is processed according to Google’s policy:
+ [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
-Strona nie wykorzystuje danych do profilowania ani celów marketingowych.
+The website does not use the data for profiling or marketing purposes.
