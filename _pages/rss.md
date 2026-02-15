@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subskrybuj RSS
+title: Subscribe RSS
 permalink: /rss/
 post_id: rss
 ---
