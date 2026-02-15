@@ -1,25 +1,25 @@
-# blog-pl
+# blog-en
 
-Ten blog to miejsce na moje notatki o kodach, matematyce i symulacjach.
+This blog is a place for my notes on code, mathematics, and engineering simulations.
 
-Repozytorium źródłowe:  
-👉 [blog.marcinszewczyk.net](https://blog.marcinszewczyk.net/)
+Source repository:
+👉 [en.blog.marcinszewczyk.net](https://en.blog.marcinszewczyk.net/)
 
-Pierwszy wpis o genezie bloga:  
-👉 [Jak powstał ten blog](https://blog.marcinszewczyk.net/posts/blog-origin/)
-
----
-
-## Technicznie
-
-Blog zbudowany jest przy użyciu:
-- generatora statycznych stron Jekyll
-- motywu Chirpy
-- platformy hostingowej GitHub Pages
-- usługi analitycznej Google Analytics
+First post about the origin of the blog: 
+👉 [How This Blog Started](https://en.blog.marcinszewczyk.net/posts/blog-origin/)
 
 ---
 
-## Licencja
+## Tech stack
 
-Treść wpisów © 2026 Marcin Szewczyk
+The blog is built using:
+- Jekyll static site generator
+- Chirpy theme
+- GitHub Pages for hosting
+- Google Analytics for traffic statistics
+
+---
+
+## License
+
+Content © 2026 Marcin Szewczyk

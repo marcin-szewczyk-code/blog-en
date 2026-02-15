@@ -12,6 +12,6 @@ As far as I remember, there was no Google back then – and a few other things d
 
 Now I’m coming back to this.
 
-Here is the first post about it: [How This Blog Started](/posts/blog-origin/).
+Here is the first post about the blog: [How This Blog Started](/posts/blog-origin/).
 
 Maybe I’ll publish more entries here from time to time.
