@@ -12,13 +12,11 @@
 #url: "https://marcin-szewczyk-code.github.io"
 #baseurl: "/blog-pl"
 
-copyright:
-  license:
-    name: All rights reserved
-    link:
-
 url: "https://en.blog.marcinszewczyk.net"
 baseurl: ""
+
+post:
+  license: true
 
 future: true
 
