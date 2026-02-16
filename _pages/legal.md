@@ -8,26 +8,17 @@ permalink: /legal/
 
 This blog is part of a long-term writing project. The published content may in the future be revised, expanded, and used in other forms of publication, prepared through the conversion of Markdown sources (e.g., to LaTeX format using tools such as PyPandoc).
 
-For this reason, the licensing model is intentionally conservative.
+For this reason, a conservative licensing model ensuring full authorial control has been adopted.
 
 ### Text and editorial content
 
 All textual content, structure, and original illustrations published on this blog are protected by copyright.
 
+Each post displays:
+
 > © Marcin Szewczyk. All rights reserved.
 
-Use of the materials requires prior permission of the author, except where permitted by copywrite law, in particular the quotation of short excerpts with proper attribution.
-
-### Source code
-
-Source code published in separate repositories may be licensed under a different license, for example the MIT License.
-
-This separation is intentional:
-
-- editorial content → protected (All rights reserved),
-- source code → may be distributed as open source.
-
-Each repository specifies its license in the LICENSE file.
+Use of the materials requires prior permission of the author, except where permitted by applicable copyright law, in particular the quotation of short excerpts with proper attribution.
 
 ### Footer notice
 
@@ -39,10 +30,13 @@ where YYYY denotes the current year.
 
 This indicates the starting year of the project and its ongoing development.
 
-Each post displays:
+### Source code
 
-> © Marcin Szewczyk. All rights reserved.
+Source code published in separate repositories may be licensed under a different license, for example the MIT License.
 
-It applies to each article as an independent work and is subject to the same protection model.
+This separation is intentional:
 
+- editorial content → protected (All rights reserved),
+- source code → may be distributed as open source.
 
+Each repository specifies its license in the LICENSE file.
