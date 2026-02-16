@@ -7,7 +7,8 @@ permalink: /legal/
 ## Copyright and License
 
 This blog is part of a long-term writing project.
-Its content may later be revised, expanded, and published as a book generated from LaTeX sources.
+
+The published content may in the future be revised, expanded, and used in other forms of publication, prepared through the conversion of Markdown sources (e.g., to LaTeX format using tools such as PyPandoc).
 
 For this reason, the licensing model is intentionally conservative.
 
@@ -17,17 +18,7 @@ All textual content, structure, and original illustrations published on this blo
 
 > © Marcin Szewczyk. All rights reserved.
 
-This means that without prior written permission of the author it is not permitted to:
-
-reproduce posts in full,
-
-publish translations,
-
-distribute or sell compilations,
-
-reuse content commercially.
-
-Short excerpts may be quoted with proper attribution in accordance with applicable copyright law.
+Use of the materials requires prior permission of the author, except where permitted by copywrite law, in particular the quotation of short excerpts with proper attribution.
 
 ### Source code
 
@@ -36,25 +27,24 @@ Source code published in separate repositories may be licensed under a different
 This separation is intentional:
 
 - editorial content → protected (All rights reserved),
+- source code → may be distributed as open source.
 
-- source code → may be open source.
-
-Each repository defines its own license in its LICENSE file.
+Each repository specifies its license in the LICENSE file.
 
 ### Footer notice
 
 The site footer displays:
 
-© 2026–YYYY Marcin Szewczyk. All rights reserved.
+> © 2026–YYYY Marcin Szewczyk. All rights reserved.
 
-where YYYY is the current year.
+where YYYY denotes the current year.
 
 This indicates the starting year of the project and its ongoing development.
 
-The per-post notice displays:
+Each post displays:
 
-© Marcin Szewczyk. All rights reserved.
+> © Marcin Szewczyk. All rights reserved.
 
-It applies to each individual article as a separate work and follows the same copyright model as the overall project.
+It applies to each article as an independent work and is subject to the same protection model.
 
 
