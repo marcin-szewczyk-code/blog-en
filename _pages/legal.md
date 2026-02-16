@@ -6,9 +6,7 @@ permalink: /legal/
 
 ## Copyright and License
 
-This blog is part of a long-term writing project.
-
-The published content may in the future be revised, expanded, and used in other forms of publication, prepared through the conversion of Markdown sources (e.g., to LaTeX format using tools such as PyPandoc).
+This blog is part of a long-term writing project. The published content may in the future be revised, expanded, and used in other forms of publication, prepared through the conversion of Markdown sources (e.g., to LaTeX format using tools such as PyPandoc).
 
 For this reason, the licensing model is intentionally conservative.
 
