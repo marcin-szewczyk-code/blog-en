@@ -47,7 +47,7 @@ In early HTML, icons were simply small image files inserted with `<img>` (for ex
   <img src="/assets/posts/jekyll-icons/java-icons/Help24.gif" alt="Help24" style="display:inline-block;margin:0 4px;vertical-align:middle;">
 </div>
 
-***Fig. 1.** `.gif` image files used as Java/Swing icons, © Sun Microsystems, 2000.*
+***Fig. 1.** `.gif` image files used as Java Swing icons, © Sun Microsystems, 2000.*
 
 
 Over time, other techniques appeared (CSS, SVG). One of the popular solutions became **Font Awesome**. It is an icon set distributed as a font/SVG with appropriate CSS classes. Icons are rendered like a font (or SVG), and selecting an icon and its appearance is reduced to choosing the right CSS classes.
