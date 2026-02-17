@@ -1,5 +1,5 @@
 ---
-title: "Blog Jekyll: Icons -- how they work and how I use them"
+title: "Blog Jekyll: Icons – how they work and how I use them"
 date: 2026-02-19 07:00:00 +0100
 categories: [Blog]
 tags: [jekyll, font-awesome, css, python]

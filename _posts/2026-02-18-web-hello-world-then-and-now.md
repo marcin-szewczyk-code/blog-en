@@ -1,5 +1,5 @@
 ---
-title: "Web (1/N): Five Ways to Generate HTML - Hello World Then and Now"
+title: "Web (1/N): Five Ways to Generate HTML – Hello World Then and Now"
 date: 2026-02-18 07:00:00 +0100
 categories: [Web]
 tags: [web, html, php, css, js, hello-world]
