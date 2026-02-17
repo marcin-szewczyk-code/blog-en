@@ -52,7 +52,7 @@ In early HTML, icons were simply small image files inserted with `<img>` (for ex
 
 Over time, other techniques appeared (CSS, SVG). One of the popular solutions became **Font Awesome**. It is an icon set distributed as a font/SVG with appropriate CSS classes. Icons are rendered like a font (or SVG), and selecting an icon and its appearance is reduced to choosing the right CSS classes.
 
-The full Font Awesome set is paid, but a very large number of icons are available in the free version.
+The full Font Awesome set is paid (![https://fontawesome.com/](https://fontawesome.com/)), but a very large number of icons are available in the free version.
 
 ## What “icons” mean in Jekyll (example: Chirpy)
 
