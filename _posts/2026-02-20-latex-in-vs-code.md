@@ -1,5 +1,5 @@
 ---
-title: "LaTeX (1/N): VS Code instead of TeXstudio – step-by-step"
+title: "LaTeX: VS Code instead of TeXstudio – step-by-step"
 date: 2026-02-20 07:00:00 +0100
 categories: [LaTeX, Tools]
 tags: [latex, vscode, texstudio, overleaf, workflow, setup]
