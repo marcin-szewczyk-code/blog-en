@@ -1,24 +1,22 @@
 ---
 title: "LaTeX: VS Code instead of TeXstudio – step-by-step"
-date: 2026-02-20 07:00:00 +0100
+date: 2026-02-21 07:00:00 +0100
 categories: [LaTeX, Tools]
 tags: [latex, vscode, texstudio, overleaf, workflow, setup]
 ---
 
-LaTeX document is a text file that describes structure and typesetting
-using commands and environments. It is compiled into output formats such
-as PDF.
+In [TeXstudio](https://www.texstudio.org/), I wrote, typeset, and prepared the graphics for the book *[Analytical Methods in Calculations of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*,
+published by OWPW in 2024.
+
+For this blog, I moved my workflow from TeXstudio to VS Code [VS Code](https://code.visualstudio.com/) to work in a single environment covering Markdown, HTML, CSS, Python, C++, Git, and LaTeX. Future books will likely be prepared here as well.
+
+LaTeX document is a text file that describes structure and typesetting using commands and environments. It is compiled into output formats such as PDF.
 
 There are several ways to create LaTeX documents:
 
--   **Overleaf** is a cloud-based solution -- convenient for collaborative work and submitting articles directly to publishers, but dependent on a web browser.
--   **TeXstudio** is a classic, dedicated IDE designed exclusively for working with LaTeX.
--   **VS Code** is a powerful general-purpose editor, extensible via extensions. With proper configuration, it can serve as a full LaTeX environment and replace TeXstudio, while integrating with GitHub at the same time.
-
-> In TeXstudio, I wrote, typeset, and prepared the graphics for the book *[Analytical Methods in Calculations of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*,
-published by OWPW in 2024.
-
-For this blog, I moved my workflow from TeXstudio to VS Code to work in a single environment covering Markdown, HTML, CSS, Python, C++, Git, and LaTeX. Future books will likely be prepared here as well.
+- **Overleaf** is a cloud-based solution -- convenient for collaborative work and submitting articles directly to publishers, but dependent on a web browser.
+- **TeXstudio** is a classic, dedicated IDE designed exclusively for working with LaTeX.
+- **VS Code** is a powerful general-purpose editor, extensible via extensions. With proper configuration, it can serve as a full LaTeX environment and replace TeXstudio, while integrating with GitHub at the same time.
 
 Below is a step-by-step configuration of LaTeX in VS Code.
 

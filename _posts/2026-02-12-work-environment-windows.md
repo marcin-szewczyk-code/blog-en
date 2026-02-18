@@ -1,5 +1,5 @@
 ---
-title: "Environment (1/N): Windows - Why, What I Disable, and What I Add"
+title: "Environment: Windows - Why, What I Disable, and What I Add"
 date: 2026-02-12 07:00:00 +0100
 categories: [Environment]
 tags: [windows, environment, setup]

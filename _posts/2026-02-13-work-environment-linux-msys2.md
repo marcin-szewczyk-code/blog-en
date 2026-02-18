@@ -1,5 +1,5 @@
 ---
-title: "Environment (2/N): Linux under Windows – MSYS2, MinGW, and gcc"
+title: "Environment: Linux under Windows – MSYS2, MinGW, and gcc"
 date: 2026-02-13 07:00:00 +0100
 categories: [Environment]
 tags: [linux, environment, setup, msys2]

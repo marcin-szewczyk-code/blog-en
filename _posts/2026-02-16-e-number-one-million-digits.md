@@ -1,5 +1,5 @@
 ---
-title: "The Number “e” (3/3): Accurate to One Million Decimal Places"
+title: "The Number “e”: Accurate to One Million Decimal Places"
 date: 2026-02-16 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e, taylor-series, c, gmp]

@@ -1,5 +1,5 @@
 ---
-title: "The Number “e” (1/3): Where It Comes From and Why It Matters"
+title: "The Number “e”: Where It Comes From and Why It Matters"
 date: 2026-02-14 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e]
