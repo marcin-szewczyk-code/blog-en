@@ -6,7 +6,7 @@ order: 4
 
 I started playing with the Internet about 30 years ago, in the first Polish domain: ```fuw.edu.pl```. It was an interesting time to be there.
 
-Later, I experimented a bit with static and dynamic websites – first on ```fuw.edu.pl```, then a bit more on ```ee.pw.edu.pl```. I built static pages in ```HTML```, and dynamic ones in ```C++```, sending them to the browser via ```CGI```. Later I rewrote them in ```PHP``` and added ```CSS```. ```LaTeX``` was also part of the adventure.
+Later, I experimented a bit with static and dynamic websites – first on ```fuw.edu.pl```, then a bit more on ```ee.pw.edu.pl```. I built static pages in ```HTML```, and dynamic ones in ```C++```, sending them to the browser via ```CGI```. Later I rewrote them in ```PHP``` and added ```CSS``` and ```JS```. ```LaTeX``` was also part of the adventure.
 
 As far as I remember, there was no Google back then – and a few other things didn’t exist either.
 
