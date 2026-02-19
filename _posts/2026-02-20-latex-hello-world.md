@@ -1,5 +1,6 @@
 ---
 title: "LaTeX: Hello World – a (Nearly) Minimal Example"
+description: "A LaTeX 'Hello World' in two variants: a minimal file and a practical template with preamble, packages, sections, math, a figure and bibliography, plus the basics of compiling to PDF."
 date: 2026-02-20 07:00:00 +0100
 categories: [LaTeX, Tools]
 tags: [latex, hello-world]

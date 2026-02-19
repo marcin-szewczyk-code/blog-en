@@ -1,5 +1,6 @@
 ---
 title: "The Number “e”: Accurate to One Million Decimal Places"
+description: "Computing the number e from its Taylor series in C, using GMP to obtain one million decimal digits."
 date: 2026-02-16 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e, taylor-series, c, gmp]

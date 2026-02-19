@@ -1,7 +1,8 @@
 ---
-title: "Tools: SolidWorks – Getting Started"
+title: "Engineering Software: SolidWorks – Getting Started"
+description: "Getting started with SolidWorks: training materials, academic certification paths (CSWA, CSWP, CSWE), first launch overview, and exam workflow using the TesterPro Client."
 date: 2026-02-17 07:00:00 +0100
-categories: [Tools]
+categories: [Engineering Software]
 tags: [solidworks, cad, getting-started, certification]
 ---
 

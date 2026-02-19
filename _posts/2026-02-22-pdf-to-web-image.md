@@ -1,8 +1,8 @@
 ---
-title: "Generating Web Images from PDF (Poppler + ImageMagick)"
+title: "Tools: Generating Web Images from PDF (Poppler + ImageMagick)"
 description: "Convert PDF to PNG using Poppler (pdftoppm) and process the image with ImageMagick to generate blog-ready web images."
 date: 2026-02-22 07:00:00 +0100
-categories: [LaTeX, Tools]
+categories: [Tools]
 tags: [pdf, png, poppler, pdftoppm, imagemagick, graphics, workflow]
 ---
 

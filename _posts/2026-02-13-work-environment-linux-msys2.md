@@ -1,5 +1,6 @@
 ---
 title: "Environment: Linux under Windows – MSYS2, MinGW, and gcc"
+description: "A minimal Linux-like environment on Windows using MSYS2 and MinGW64: installing gcc, the GMP library and ImageMagick, with a sample C compilation workflow."
 date: 2026-02-13 07:00:00 +0100
 categories: [Environment]
 tags: [linux, environment, setup, msys2]

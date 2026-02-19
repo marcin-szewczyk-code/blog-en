@@ -1,5 +1,6 @@
 ---
 title: "Web: Five Ways to Generate HTML – Hello World Then and Now"
+description: "A comparison of five HTML generation models – static HTML, classic and layered SSR, CSR + API, and SSG – illustrated with a 'Hello World' example past and present."
 date: 2026-02-18 07:00:00 +0100
 categories: [Web]
 tags: [web, html, php, css, js, hello-world]

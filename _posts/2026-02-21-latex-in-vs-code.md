@@ -1,5 +1,6 @@
 ---
 title: "LaTeX: VS Code instead of TeXstudio – step-by-step"
+description: "Step-by-step LaTeX setup in VS Code: installing TeX Live, configuring LaTeX Workshop with latexmk, enabling PDF preview and SyncTeX, and organizing the build directory with Git."
 date: 2026-02-21 07:00:00 +0100
 categories: [LaTeX, Tools]
 tags: [latex, vscode, texstudio, overleaf, workflow, setup]

@@ -1,5 +1,6 @@
 ---
 title: "The Number “e”: Where It Comes From and Why It Matters"
+description: "An intuitive derivation of the number e from the definition of the derivative of an exponential function."
 date: 2026-02-14 07:00:00 +0100
 categories: [Mathematics]
 tags: [math, e]

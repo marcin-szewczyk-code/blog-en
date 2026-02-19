@@ -1,5 +1,6 @@
 ---
 title: "Environment: Windows - Why, What I Disable, and What I Add"
+description: "Windows setup: what I disable to reduce distractions and which development tools and engineering simulation software I install for daily work."
 date: 2026-02-12 07:00:00 +0100
 categories: [Environment]
 tags: [windows, environment, setup]

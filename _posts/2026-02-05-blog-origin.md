@@ -1,5 +1,6 @@
 ---
 title: "How This Blog Started"
+description: "A brief story of how this blog was built using Jekyll and the Chirpy theme, deployed on GitHub Pages, with content written in Markdown and versioned with Git."
 date: 2026-02-05 15:00:00 +0100
 categories: [Blog]
 tags: [blog, jekyll, personal]
