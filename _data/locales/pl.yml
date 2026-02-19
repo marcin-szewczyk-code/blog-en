@@ -64,10 +64,8 @@ footer:
   theme: Motyw
   copyrights: Wszelkie prawa zastrzeżone
 
-#meta: "Powered by :PLATFORM · Theme: :THEME"
-#meta: "Powered by :PLATFORM · Motyw: :THEME · Polityka prywatności: Google Analytics (GA4)"
+meta: "Generator: :PLATFORM · Motyw: :THEME · Licencja: :COPYRIGHT · Analityka: :PRIVACY"
 
-meta: "Generator: :PLATFORM · Theme: :THEME · :PRIVACY"
 
 #meta:
 #  title: Blog
@@ -98,3 +96,25 @@ date:
   long: "%d %B %Y"
   short: "%d.%m.%Y"
 
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Autor
+  posted: Opublikowano
+  updated: Zaktualizowano
+  words: words
+  pageview_measure: views
+  read_time:
+    unit: min
+    prompt: czytania
+  relate_posts: Powiązane wpisy
+  share: Udostępnij
+  button:
+    next: Następny
+    previous: Poprzedni
+    copy_code:
+      succeed: Skopiowano!
+    share_link:
+      title: Skopuj link
+      succeed: Link skopiowany!
