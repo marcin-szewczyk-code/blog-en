@@ -15,3 +15,12 @@ Now I’m coming back to this.
 Here is the first post about the blog: [How This Blog Started](/posts/blog-origin/).
 
 Maybe I’ll publish more entries here from time to time.
+
+---
+
+> **More information**
+>
+> - Main website: [https://marcinszewczyk.net](https://marcinszewczyk.net)
+> - Polish version of the blog: [https://blog.marcinszewczyk.net](https://blog.marcinszewczyk.net)
+
+---
