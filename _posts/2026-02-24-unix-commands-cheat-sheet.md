@@ -57,10 +57,10 @@ most important information.
 Below is my cheat sheet of commonly used Unix commands (in Polish).
 
 📄 **Download PDF**:
-[`unix-commands-cheat-sheet.pdf`](/assets/posts/unix-commands-cheat-sheet/unix-commands-cheat-sheet.pdf)
+[`unix-commands-cheat-sheet-en.pdf`](/assets/posts/unix-commands-cheat-sheet/unix-commands-cheat-sheet-en.pdf)
 
 ![Unix Commands Cheat
-Sheet](/assets/posts/unix-commands-cheat-sheet/unix-commands-cheat-sheet-web.png)
+Sheet](/assets/posts/unix-commands-cheat-sheet/unix-commands-cheat-sheet-en-web.png)
 ***Fig. 1.** Unix commands cheat sheet.*
 
 ------------------------------------------------------------------------
