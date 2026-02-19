@@ -25,7 +25,7 @@ hardware devices, and handling pipes and data streams between programs.
 Programs -- including the shell -- do not have direct access to
 hardware; the kernel always mediates such access.
 
-There are many Unix-like kernels; one of them is Linux. Linux is a free Unix-like
+There are many Unix-like kernels, one of them is Linux. Linux is a free Unix-like
 kernel created in 1991 by Linus Torvalds, which made it possible to run Unix-like
 systems on ordinary personal computers.
 
