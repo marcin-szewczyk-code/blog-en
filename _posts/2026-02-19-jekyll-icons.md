@@ -2,7 +2,7 @@
 title: "Jekyll Blog: Icons – CSS classes and Font Awesome"
 description: "How icons work in the Chirpy theme: using Font Awesome via CSS classes in HTML, plus a simple Python script that generates an icon grid in Markdown."
 date: 2026-02-19 07:00:00 +0100
-categories: [Blog]
+categories: [Blog Jekyll-Chirpy]
 tags: [jekyll, font-awesome, css, python]
 ---
 
