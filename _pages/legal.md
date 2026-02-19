@@ -1,5 +1,6 @@
 ---
 title: Copyright and License
+description: "Copyright and licensing policy of the blog: 'All rights reserved' for editorial content, with source code potentially released under separate open-source licenses."
 layout: page
 permalink: /legal/
 ---

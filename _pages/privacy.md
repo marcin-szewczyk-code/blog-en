@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+description: "Privacy notice for the blog: use of Google Analytics (GA4) for statistical purposes only, with no profiling or marketing use of collected data."
 layout: page
 permalink: /privacy/
 ---

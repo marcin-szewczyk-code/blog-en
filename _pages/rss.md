@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Subscribe RSS
+description: "RSS (Atom) subscription page for the blog: feed.xml address, instructions for adding it to RSS readers, and an example of how it appears in a mobile app."
+layout: page
 permalink: /rss/
 post_id: rss
 ---
