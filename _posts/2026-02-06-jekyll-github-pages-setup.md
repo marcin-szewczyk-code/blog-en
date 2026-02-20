@@ -1,6 +1,6 @@
 ---
 title: "Jekyll Blog: How to Build a Jekyll Blog on GitHub Pages"
-description: "How to build a Jekyll blog with the Chirpy theme on GitHub Pages: repository setup, basic \\_config.yml configuration, local Jekyll server, commit & push workflow, and automatic build in GitHub Actions."
+description: "How to build a Jekyll blog with the Chirpy theme on GitHub Pages: repository setup, basic _config.yml configuration, local Jekyll server, commit & push workflow, and automatic build in GitHub Actions."
 date: 2026-02-06 07:00:00 +0100
 categories: [Jekyll Blog]
 tags: [blog, jekyll, setup]
