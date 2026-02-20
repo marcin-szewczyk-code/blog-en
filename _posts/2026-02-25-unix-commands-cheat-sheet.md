@@ -1,7 +1,7 @@
 ---
 title: "Unix: Shell Commands – Cheat Sheet"
 description: "A cheat sheet of the commonly used Unix commands with examples of working with streams and pipes."
-date: 2026-02-24 07:00:00 +0100
+date: 2026-02-25 07:00:00 +0100
 categories: [Unix]
 tags: [unix, shell, commands, cheat-sheet, pipes]
 ---

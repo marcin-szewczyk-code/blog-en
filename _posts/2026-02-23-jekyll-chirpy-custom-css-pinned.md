@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Blog: Modifying CSS in Chirpy theme – pinned posts example"
+title: "Jekyll Blog: Modifying CSS in Chirpy theme – pinned posts"
 description: "How to add a custom custom.css file in the Chirpy theme and highlight pinned posts without modifying theme files."
 date: 2026-02-23 07:00:00 +0100
 categories: [Jekyll Blog]

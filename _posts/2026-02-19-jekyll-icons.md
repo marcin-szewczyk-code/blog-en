@@ -327,4 +327,4 @@ In Chirpy, adding an icon comes down to adding the right CSS classes to an `<i>`
 
 I choose the icon name → I type the CSS class → I get the icon on the page.
 
-Simple → works → looks good
+Simple → works → looks good.
