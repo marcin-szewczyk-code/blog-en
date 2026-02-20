@@ -95,15 +95,19 @@ This fragment was inserted in two places:
 
 -   after the condition:
 
-``` liquid
+{% raw %}
+```liquid
 {% if paths.size == 0 or page.layout == 'home' %}
 ```
+{% endraw %}
 
 -   and after the condition:
 
-``` liquid
+{% raw %}
+```liquid
 {% if forloop.first %}
 ```
+{% endraw %}
 
 ### "Subscribe RSS" Page
 

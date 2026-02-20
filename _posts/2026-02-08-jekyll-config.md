@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Blog: Blog Configuration in Jekyll – YAML, HTML and CSS
+title: "Jekyll Blog: Blog Configuration in Jekyll – YAML, HTML and CSS"
 description: "Configuring a Jekyll blog with the Chirpy theme: editing \\_config.yml, YAML settings, avatar and favicons, HTML/CSS modifications, and basic structure adjustments."
 date: 2026-02-08 07:00:00 +0100
 categories: [Blog Jekyll]
