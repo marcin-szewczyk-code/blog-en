@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Blog: CSS Modification in the Chirpy Theme – Sidebar"
+title: "Jekyll Blog: CSS Modification in the Chirpy Theme – Footer in Sidebar"
 description: "How to add a custom footer to the sidebar in the Chirpy theme."
 date: 2026-02-24 07:00:00 +0100
 categories: [Jekyll Blog]
