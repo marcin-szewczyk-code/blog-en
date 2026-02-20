@@ -2,7 +2,7 @@
 title: "Jekyll Blog: MathJax for LaTeX Mathematical Formulas"
 description: "How to enable MathJax in a Jekyll blog (Chirpy theme): adding the script to \\_includes/head.html and using LaTeX formulas inline and display in Markdown files."
 date: 2026-02-11 07:00:00 +0100
-categories: [Blog Jekyll]
+categories: [Jekyll Blog]
 tags: [blog, jekyll, latex, setup]
 ---
 

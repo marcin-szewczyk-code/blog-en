@@ -2,7 +2,7 @@
 title: "Jekyll Blog: Google Analytics (GA4) and Footer Modification"
 description: "Connecting Google Analytics 4 (GA4) in a Jekyll blog with the Chirpy theme: \\_config.yml configuration, privacy page, and extending the blog footer."
 date: 2026-02-10 07:00:00 +0100
-categories: [Blog Jekyll]
+categories: [Jekyll Blog]
 tags: [blog, jekyll, google-analytics, rss, setup]
 ---
 

@@ -2,7 +2,7 @@
 title: "Jekyll Blog: How to Write Blog Posts – Markdown \"Hello World\""
 description: "How to create posts in Jekyll: Markdown file structure, front matter (YAML), \\_posts directory convention, asset organization, and basic elements of formatting, code, and graphics."
 date: 2026-02-07 07:00:00 +0100
-categories: [Blog Jekyll]
+categories: [Jekyll Blog]
 tags: [blog, jekyll, hello-world]
 ---
 
