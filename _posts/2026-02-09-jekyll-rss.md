@@ -1,5 +1,5 @@
 ---
-title: "Jekyll Blog: RSS Feed Subscription Page in the Chirpy Theme"
+title: "Jekyll Blog: RSS Feed Subscription and Sidebar and Top Bar Modification"
 description: "RSS configuration in Jekyll (Chirpy): custom /rss/ page, sidebar and topbar modification."
 date: 2026-02-09 07:00:00 +0100
 categories: [Jekyll Blog]
