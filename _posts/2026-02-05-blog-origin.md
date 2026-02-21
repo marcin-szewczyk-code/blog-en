@@ -21,4 +21,14 @@ The blog offers [RSS subscription](/rss/), two language versions ([PL](https://b
 
 Information about me can be found in the [About](/about/) section.
 
+{% assign count = site.posts | size %}
+
+{% if count == 1 %}
+  {% assign suffix = "post" %}
+{% else %}
+  {% assign suffix = "posts" %}
+{% endif %}
+
+This blog already has **{{ count }} {{ suffix }}**.
+
 Time will tell whether I keep posting here.
