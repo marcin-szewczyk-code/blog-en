@@ -6,6 +6,11 @@ categories: [Unix]
 tags: [unix, shell, commands, cheat-sheet, pipes]
 ---
 
+In this post, I present my cheat sheet of the most commonly used Unix
+commands.
+
+## A few words about Unix
+
 Unix is built around two main components: the *kernel* and *user space*.
 The kernel manages system resources (processes, memory, file systems,
 and devices) and provides programs with an interface of system calls.
@@ -29,10 +34,7 @@ There are many Unix-like kernels, one of them is Linux. Linux is a free Unix-lik
 kernel created in 1991 by Linus Torvalds, which made it possible to run Unix-like
 systems on ordinary personal computers.
 
-In this post, I present my cheat sheet of the most commonly used Unix
-commands.
-
-------------------------------------------------------------------------
+---
 
 ## Unix Philosophy
 
@@ -45,7 +47,7 @@ In practice, this principle explains the presence of many small,
 specialized programs in Unix, which can be freely combined using pipes
 and streams to form more complex operations.
 
-------------------------------------------------------------------------
+---
 
 ## Unix Cheat Sheet (PDF)
 
@@ -63,7 +65,7 @@ Below is my cheat sheet of commonly used Unix commands (in Polish).
 Sheet](/assets/posts/unix-commands-cheat-sheet/unix-commands-cheat-sheet-en-web.png)
 ***Fig. 1.** Unix commands cheat sheet.*
 
-------------------------------------------------------------------------
+---
 
 ## Example
 
@@ -99,7 +101,7 @@ ls --help
 man ls
 ```
 
-------------------------------------------------------------------------
+---
 
 ## Working with Streams
 
@@ -115,7 +117,7 @@ ls *.c | wc -l
 
 The result is the number of files matching the pattern.
 
-------------------------------------------------------------------------
+---
 
 ### 2. Searching and sorting
 
@@ -127,7 +129,7 @@ grep error log.txt | sort | uniq
 -   `sort` --- order the results\
 -   `uniq` --- remove duplicate adjacent lines
 
-------------------------------------------------------------------------
+---
 
 ### 3. Text analysis
 
@@ -146,7 +148,7 @@ Processing steps:
 This is an example of chaining small tools to perform a more complex
 operation.
 
-------------------------------------------------------------------------
+---
 
 ### 4. Log filtering
 
@@ -156,7 +158,7 @@ cat log.txt | grep error | sort | uniq -c
 
 Search for errors in a log file, sort them, and count occurrences.
 
-------------------------------------------------------------------------
+---
 
 ### 5. Output redirection
 
@@ -172,7 +174,7 @@ Errors can be redirected separately:
 grep main *.c 2> errors.txt
 ```
 
-------------------------------------------------------------------------
+---
 
 ### 6. Running in the background
 
@@ -183,7 +185,7 @@ sleep 60 &
 The program runs in the background while the shell remains available for
 further commands.
 
-------------------------------------------------------------------------
+---
 
 ## Summary
 
