@@ -19,7 +19,7 @@ I decided to add a statistics panel in the right column of the blog:
 
 The final result looks like this:
 
-![Blog statistics](/assets/posts/jekyll-chirpy-blog-statistics/jekyll-chirpy-blog-statistics-en.png)
+![Blog statistics](/assets/posts/jekyll-chirpy-blog-statistics/blog-statistics-en.png)
 ***Fig. 1.** Blog statistics.*
 
 Additionally, in one of the posts I added a dynamic line:
