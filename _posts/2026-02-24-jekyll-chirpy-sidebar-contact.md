@@ -6,7 +6,7 @@ categories: [Jekyll Blog]
 tags: [jekyll, chirpy, css, html, config]
 ---
 
-I liked the element at the bottom of the sidebar in the [Flexible Jekyll](https://github.com/artemsheludko/flexible-jekyll) theme, so I implemented it. This required modifying `_includes/sidebar.html` and adding a few classes and CSS rules to assets/css/custom.css.
+I liked the element at the bottom of the sidebar in the [Flexible Jekyll](https://github.com/artemsheludko/flexible-jekyll) theme, so I implemented it.
 
 It required a modification of `_includes/sidebar.html` and adding a few custom classes and CSS rules to `assets/css/custom.css`.
 
