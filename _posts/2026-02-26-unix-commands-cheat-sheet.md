@@ -7,7 +7,9 @@ tags: [unix, shell, commands, cheat-sheet, pipes]
 ---
 
 In this post, I present my cheat sheet of the most commonly used Unix
-commands.
+commands. It is prepared using an interesting LaTeX template, which I will likely describe in a future post.
+
+---
 
 ## A few words about Unix
 
