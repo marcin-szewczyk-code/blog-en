@@ -22,5 +22,6 @@ Maybe I’ll publish more entries here from time to time.
 >
 > - Main website: [https://marcinszewczyk.net](https://marcinszewczyk.net)
 > - Polish version of the blog: [https://blog.marcinszewczyk.net](https://blog.marcinszewczyk.net)
+{: .prompt-info }
 
 ---

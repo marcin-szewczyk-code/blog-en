@@ -8,7 +8,8 @@ tags: [math, e]
 
 Let’s raise the bar a bit. We’ll take a break from installations and configuration and dive into some interesting, elementary mathematics.
 
-> **Source** This post is an adapted chapter from my book: M. Szewczyk, *[Analytical Methods in the Calculation of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*, OWPW 2024.
+> This post is an adapted chapter from my book: M. Szewczyk, *[Analytical Methods in the Calculation of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*, OWPW 2024.
+{: .prompt-info }
 
 ## The Exponential Function $a^x$ and the Special Case $e^x$
 

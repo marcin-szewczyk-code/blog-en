@@ -15,7 +15,8 @@ $$
 R.P. Feynman, in his Lectures, referred to it as “the most remarkable formula in mathematics.” Many important results follow from it. For $x=\pi$, it yields the famous identity $e^{i\pi}+1=0$, linking five fundamental constants of mathematics.
 
 
-> **Source** This post is an adapted chapter from my book: M. Szewczyk, *[Analytical Methods in the Calculation of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*, OWPW 2024. At a deeper source level, it is also based on the beautiful textbook: G. Fichtenholz, *Differential and Integral Calculus*, Vol. II, PWN, Warsaw 1965. Original title: Г. М. Фихтенгольц, *Course of Differential and Integral Calculus*, Moscow–Leningrad 1958.
+> This post is an adapted chapter from my book: M. Szewczyk, *[Analytical Methods in the Calculation of Switching Processes in Power Systems](https://www.sklep.pw.edu.pl/produkty/metody-analityczne-w-obliczeniach-procesow-laczeniowych-w-systemie-elektroenergetycznym)*, OWPW 2024. At a deeper source level, it is also based on the beautiful textbook: G. Fichtenholz, *Differential and Integral Calculus*, Vol. II, PWN, Warsaw 1965. Original title: Г. М. Фихтенгольц, *Course of Differential and Integral Calculus*, Moscow–Leningrad 1958.
+{: .prompt-info }
 
 ## The Taylor Series
 
