@@ -7,7 +7,7 @@ robots: noindex, nofollow
 ---
 
 > Status: Subscription active
-{: .prompt-info }
+{: .prompt-tip }
 
 Your email address has been successfully verified.  
 The newsletter subscription is now active.
