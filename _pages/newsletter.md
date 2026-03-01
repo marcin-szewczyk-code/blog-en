@@ -9,7 +9,9 @@ The newsletter provides a way to receive updates independently of external platf
 
 Notifications about new posts on the blog are sent when new content is published.
 
-You can unsubscribe at any time using the link provided in the footer of each email.
-
 <!-- tutaj wklej kod embed z MailerLite -->
 <div class="ml-embedded" data-form="MDDjXq"></div>
+
+<p class="mt-4">
+You can unsubscribe at any time using the link provided in the footer of each email.
+</p>
