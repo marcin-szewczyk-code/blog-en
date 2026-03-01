@@ -6,7 +6,8 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-## Status: awaiting email confirmation
+> Status: awaiting email confirmation
+{: .prompt-info }
 
 Your signup has been recorded:
 - A confirmation email with an activation link has been sent to your address.  
