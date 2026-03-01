@@ -9,8 +9,6 @@ robots: noindex, nofollow
 > Status: Subscription active
 {: .prompt-tip }
 
-Your email address has been successfully verified.
-
 The newsletter subscription is now active.
 
 From this moment:

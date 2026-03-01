@@ -9,8 +9,6 @@ robots: noindex, nofollow
 > Status: awaiting email confirmation
 {: .prompt-info }
 
-Your subscription request has been received.
-
 A confirmation email with an activation link has been sent to your address.  
 
 Open the message and click the confirmation link.
