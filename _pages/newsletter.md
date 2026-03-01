@@ -5,9 +5,11 @@ permalink: /newsletter/
 layout: page
 ---
 
-The newsletter provides notifications about new blog posts only.
+The newsletter provides a way to receive updates independently of external platforms.
 
-You can unsubscribe at any time using the link in the email footer.
+Notifications about new posts on the blog are sent when new content is published.
+
+You can unsubscribe at any time using the link provided in the footer of each email.
 
 <!-- tutaj wklej kod embed z MailerLite -->
 <div class="ml-embedded" data-form="MDDjXq"></div>

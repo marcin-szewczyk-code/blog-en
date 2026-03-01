@@ -1,5 +1,5 @@
 ---
-title: Newsletter – confirmation
+title: Newsletter – Confirmation Pending
 permalink: /newsletter-confirmation/
 layout: page
 sitemap: false
@@ -9,17 +9,12 @@ robots: noindex, nofollow
 > Status: awaiting email confirmation
 {: .prompt-info }
 
-Your signup has been recorded:
-- A confirmation email with an activation link has been sent to your address.  
-- Open the message and click the confirmation link.
+Your subscription request has been received.
 
-If the email does not arrive within a few minutes:
-- check your **Spam** folder
-- check the **Promotions** tab (Gmail)
-- search for the confirmation message
+A confirmation email with an activation link has been sent to your address.  
 
-Your subscription will not be activated until confirmed.
+Open the message and click the confirmation link.
 
-> The newsletter contains only notifications about new blog posts.  
-> You can unsubscribe at any time using the link in the email footer.
-{: .prompt-tip }
+If the email does not arrive within a few minutes, please check your **SPAM** folder or the **Promotions** tab (Gmail).
+
+You may unsubscribe at any time using the link provided in the footer of each email.
