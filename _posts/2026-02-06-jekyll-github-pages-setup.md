@@ -38,6 +38,11 @@ introducing two language versions of the blog (PL \| EN). Both versions
 were then implemented as two separate *Project Pages* with identical
 architecture -- I describe that in a separate post.
 
+Jekyll is:
+- a static site generator
+- it reads Markdown
+- it generates HTML
+
 ### GitHub Repository
 
 What we need at the beginning and how it looked in my case (state at the
