@@ -22,11 +22,11 @@ In this article, I use Ubuntu as an example, but the described procedure applies
 
 ---
 
-# Installing Ubuntu on an External SSD (ISO + Rufus)
+## Installing Ubuntu on an External SSD (ISO + Rufus)
 
 Below is a description of the installation process without modifying the host system.
 
-## 1. Downloading the ISO Image
+### 1. Downloading the ISO Image
 
 Download the Ubuntu Desktop image:
 
@@ -40,7 +40,7 @@ Select binaries matching your processor architecture (e.g., x86_64 for a typical
 
 ---
 
-## 2. Running Rufus
+### 2. Running Rufus
 
 Rufus is a portable Windows utility (no installation required) for creating bootable USB media from ISO images.
 
@@ -50,7 +50,7 @@ Project website:
 
 ---
 
-## 3. Creating the Installation USB Drive
+### 3. Creating the Installation USB Drive
 
 In Rufus:
 
@@ -63,7 +63,7 @@ Create the bootable installation USB drive.
 
 ---
 
-## 4. Launching the Installer
+### 4. Launching the Installer
 
 Restart the computer and enter:
 
@@ -76,7 +76,7 @@ Start the Ubuntu installer.
 
 ---
 
-## 5. Installing on the External SSD
+### 5. Installing on the External SSD
 
 The most important stage.
 
@@ -97,7 +97,7 @@ When using manual partitioning, ensure that system partitions and the bootloader
 
 ---
 
-# Partition vs SSD vs USB Flash Drive
+## Partition vs SSD vs USB Flash Drive
 
 The external medium can be:
 
@@ -119,7 +119,7 @@ For development and embedded work, an external SSD is the most flexible solution
 
 ---
 
-# Additional Note
+## Additional Note
 
 As part of a Windows maintenance workflow (backup, system images), one can analogously prepare a Windows installation medium to restore the system from scratch.
 
@@ -127,7 +127,7 @@ This allows periodic “clean” system resets without data loss – provided th
 
 ---
 
-# Summary
+## Summary
 
 It is straightforward to install a Linux system (e.g., Ubuntu) on an external SSD from an ISO image using Rufus.
 

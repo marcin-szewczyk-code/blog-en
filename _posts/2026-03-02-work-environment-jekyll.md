@@ -172,7 +172,7 @@ This launches local Jekyll development servers.
 
 ---
 
-## Final State
+## Summary
 
 Configuration result:
 
