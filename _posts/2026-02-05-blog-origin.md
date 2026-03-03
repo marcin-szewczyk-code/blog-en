@@ -15,9 +15,9 @@ The blog is generated from Markdown, pushed to Git from VS Code. It’s fully st
 
 This blog is a place for my notes on code, mathematics, and simulations.
 
-The easiest way to browse the blog content is through the [Categories](/categories/) or [Archive](/archives/) sections.
+The easiest way to browse the content is through the [Categories](/categories/) or [Archive](/archives/) sections.
 
-The blog offers [RSS subscription](/rss/), two language versions ([PL](https://blog.marcinszewczyk.net/) \| [EN](https://en.blog.marcinszewczyk.net/)), and a light/dark mode toggle in the header.
+The blog offers [RSS subscription](/rss/), two language versions ([PL](https://blog.marcinszewczyk.net/) \| [EN](https://en.blog.marcinszewczyk.net/)), and a light/dark mode toggle in the header. There is also a [NEWSLETTER](/newsletter/) with notifications about new posts.
 
 Information about me can be found in the [About](/about/) section.
 
