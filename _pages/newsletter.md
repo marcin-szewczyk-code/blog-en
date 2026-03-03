@@ -5,9 +5,9 @@ permalink: /newsletter/
 layout: page
 ---
 
-The newsletter provides a way to receive updates independently of external platforms.
+Email updates about new blog posts.
 
-Notifications about new posts on the blog are sent when new content is published.
+The newsletter provides a way to receive updates independently of external platforms.
 
 <!-- tutaj wklej kod embed z MailerLite -->
 <div class="ml-embedded" data-form="MDDjXq"></div>
