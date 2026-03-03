@@ -2,7 +2,7 @@
 title: "Jekyll Blog: Newsletter – MailerLite"
 description: "Newsletter implementation using a Static Frontend + SaaS Backend architecture (Jekyll, Chirpy, MailerLite)."
 date: 2026-03-04 07:00:00 +0100
-categories: [Blog Jekyll]
+categories: [Jekyll Blog]
 tags: [newsletter, jekyll, chirpy, mailerlite]
 ---
 
