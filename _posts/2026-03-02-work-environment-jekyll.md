@@ -122,6 +122,9 @@ Verification:
 ruby -v
 ```
 
+![Ruby installer for Windows](/assets/posts/work-environment-jekyll/ruby-installer.png)
+***Rys. 1.** Ruby installer for Windows.*
+
 ---
 
 ## 5. Installing Project Dependencies
