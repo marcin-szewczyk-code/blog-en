@@ -1,6 +1,6 @@
 ---
-title: "Unix: Shell Commands – Cheat Sheet"
-description: "A cheat sheet of the commonly used Unix commands with examples of working with streams and pipes."
+title: "Linux: Shell Commands – Cheat Sheet"
+description: "A cheat sheet of the commonly used Unix and Linux commands with examples of working with streams and pipes."
 date: 2026-02-25 07:00:00 +0100
 categories: [Unix]
 tags: [unix, shell, commands, cheat-sheet, pipes]
@@ -11,7 +11,7 @@ commands. It is prepared using an interesting LaTeX template, which I will likel
 
 ---
 
-## A few words about Unix
+## A few words about Unix and Linux
 
 Unix is built around two main components: the *kernel* and *user space*.
 The kernel manages system resources (processes, memory, file systems,
