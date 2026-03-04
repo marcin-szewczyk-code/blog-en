@@ -114,6 +114,9 @@ After installation:
 ridk install
 ```
 
+![Ruby installer for Windows](/assets/posts/work-environment-jekyll/ruby-installer.png)
+***Rys. 1.** Ruby installer for Windows.*
+
 The `ridk install` command installs MSYS2 and the required toolchain (gcc, make), necessary to compile gems with native extensions.
 
 Verification:
@@ -121,9 +124,6 @@ Verification:
 ```bash
 ruby -v
 ```
-
-![Ruby installer for Windows](/assets/posts/work-environment-jekyll/ruby-installer.png)
-***Rys. 1.** Ruby installer for Windows.*
 
 ---
 
