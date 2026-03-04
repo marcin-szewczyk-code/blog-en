@@ -3,7 +3,7 @@ title: "Linux: Shell Commands – Cheat Sheet"
 description: "A cheat sheet of the commonly used Unix and Linux commands with examples of working with streams and pipes."
 date: 2026-02-25 07:00:00 +0100
 categories: [Linux]
-tags: [linux, shell, commands, cheat-sheet, pipes]
+tags: [linux, shell, commands, cheat-sheet]
 ---
 
 In this post, I present my cheat sheet of the most commonly used Unix
