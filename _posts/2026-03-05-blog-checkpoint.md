@@ -2,7 +2,7 @@
 title: "Blog Development Directions – Checkpoint After 25 Posts"
 description: "Three development axes of the blog – publishing workflow, engineering simulations, and embedded systems with distributed architectures."
 date: 2026-03-05 07:00:00 +0100
-categories: [Blog Jekyll]
+categories: [Jekyll Blog]
 tags: [roadmap, simulations, embedded, iot]
 pin: true
 ---
