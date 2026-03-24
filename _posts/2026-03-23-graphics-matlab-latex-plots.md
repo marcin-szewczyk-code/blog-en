@@ -16,7 +16,7 @@ I approach this through coding:
 
 This approach provides high-quality graphics with mathematical notation and a script-based workflow.
 
-In this post, I show a minimal example that includes all key elements in a single figure.
+In this post, I show a minimal MATLAB example that includes all key elements in a single figure.
 
 Somewhat more advanced figures include multi-panel layouts (using `subplot` function), inset plots, dual axes (left and right Y-axes), and more advanced formatting. These will be described in separate posts.
 
