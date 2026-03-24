@@ -6,7 +6,7 @@ categories: [Graphics, MATLAB]
 tags: [matlab, latex, plots, tikz]
 ---
 
-For graphic designers, creating graphics is natural. For programmers, it is a separate challenge.
+For graphic designers, creating visuals is natural, whereas for people working with computation and modelling, it is a separate challenge.
 
 I approach this through coding:
 
