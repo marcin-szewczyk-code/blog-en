@@ -46,7 +46,7 @@ Files used in this example:
 
 ## MATLAB code
 
-A minimal example including the key elements: waveform, envelope, axis labels, and legend.
+An example including the key elements: waveform, envelope, axis labels, and legend.
 
 Key setting: LaTeX interpreter as default for all text elements.
 
