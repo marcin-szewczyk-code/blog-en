@@ -144,6 +144,28 @@ The blog is now available locally at: [http://127.0.0.1:4000/](http://127.0.0.1:
 File changes are reflected immediately -- not all of them, but the key
 ones (e.g., posts). Changing `_config.yml` requires restarting Jekyll.
 
+It is useful to run Jekyll with the `--future` option:
+
+```bash
+bundle exec jekyll serve --future
+```
+
+This allows you to keep `future: false` in `_config.yml` (so posts are hidden before their publish date), while still seeing them locally during development.
+
+You can also run Jekyll on a different port:
+
+```bash
+bundle exec jekyll serve --port 4001
+```
+
+Then the site will be available at:
+
+```bash
+http://localhost:4001
+```
+
+This makes it possible to run multiple local instances at the same time, e.g. `blog-pl` and `blog-en`.
+
 ### Push to Git (commit & push)
 
 Finally, `commit` and `push` to GitHub:

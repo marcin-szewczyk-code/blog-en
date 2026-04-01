@@ -4,13 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> **More information about me**
+> **Links**
 >
 > - Main website: [https://marcinszewczyk.net](https://marcinszewczyk.net)
 > - Polish version of the blog: [https://blog.marcinszewczyk.net](https://blog.marcinszewczyk.net)
 {: .prompt-info }
-
----
 
 I started playing with the Internet about 30 years ago, in the first Polish domain: ```fuw.edu.pl```. It was an interesting time to be there.
 
