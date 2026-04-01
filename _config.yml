@@ -18,7 +18,7 @@ baseurl: ""
 post:
   license: true
 
-future: true
+future: false
 
 lastmod: false
 
