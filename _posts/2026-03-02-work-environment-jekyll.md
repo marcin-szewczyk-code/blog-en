@@ -33,6 +33,15 @@ During installation the following options were selected:
 - ✔ **Override the default branch name: main**
 - ✔ **Git from the command line and also from 3rd-party software**
 - ✔ **Use bundled OpenSSH**
+- ✔ **Use the native Windows Secure Channel library**
+- ✔ **Checkout Windows-style, commit Unix-style line endings**
+- ✔ **Use the native Windows Secure Channel library (Schannel)**
+- ✔ **Checkout Windows-style, commit Unix-style line endings**
+- ✔ **Use MinTTY (the default terminal of MSYS2)**
+- ✔ **Fast-forward or merge**
+- ✔ **Git Credential Manager**
+- ✔ **Enable file system caching** ❌ **Enable symbolic links**
+
 
 Global identity configuration:
 
@@ -75,10 +84,10 @@ where `%USERPROFILE%` denotes the current user's home directory, containing the 
 2. SSH and GPG keys  
 3. New SSH key  
 4. Title (e.g., `Lenovo-X250-2026`)  
-5. Paste the key  
+5. Paste the public key (contents of `%USERPROFILE%\.ssh\id_ed25519.pub`)
 6. Add SSH key  
 
-Connection test:
+Connection test (confirm by typing `yes` i podaj hasło, then enter your password if required):
 
 ```bash
 ssh -T git@github.com
