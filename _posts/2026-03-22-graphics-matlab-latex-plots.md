@@ -1,7 +1,7 @@
 ---
 title: "Graphics: MATLAB plots with LaTeX-formatted labels"
 description: "Creating plots in MATLAB using LaTeX for axis labels, titles, and legends."
-date: 2026-03-23 07:00:00 +0100
+date: 2026-03-22 07:00:00 +0100
 categories: [Graphics, MATLAB]
 tags: [matlab, latex, plots, tikz]
 ---

@@ -2,7 +2,7 @@
 title: "Graphics: Plots in Python (Matplotlib) with LaTeX formatting"
 description: "Creating plots in Python (Matplotlib) using LaTeX for axis labels, titles, and legends."
 author: Marcin Szewczyk
-date: 2026-04-22 07:00:00 +0100
+date: 2026-04-23 07:00:00 +0100
 categories: [Graphics, Python]
 tags: [python, latex, plots]
 ---

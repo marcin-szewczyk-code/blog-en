@@ -1,7 +1,7 @@
 ---
 title: "SolidWorks: LEGO Brick – step-by-step example"
 description: "Creating a LEGO brick model in SolidWorks using basic CAD operations."
-date: 2026-04-25 07:00:00 +0100
+date: 2026-04-26 07:00:00 +0100
 categories: [Engineering Software, SolidWorks]
 tags: [cad]
 ---

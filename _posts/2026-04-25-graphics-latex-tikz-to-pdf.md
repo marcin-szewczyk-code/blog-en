@@ -1,7 +1,7 @@
 ---
 title: "Graphics: TikZ in LaTeX – workflow in a larger project (PDF instead of inline)"
 description: "How to generate TikZ drawings as PDF files, crop them with pdfcrop, and use them in LaTeX documents instead of inline drawings."
-date: 2026-04-24 07:00:00 +0100
+date: 2026-04-25 07:00:00 +0100
 categories: [Graphics, LaTeX-TikZ]
 tags: [latex, tikz, workflow]
 ---

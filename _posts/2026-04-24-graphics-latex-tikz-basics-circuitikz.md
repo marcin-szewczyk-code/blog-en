@@ -1,7 +1,7 @@
 ---
 title: "Graphics: TikZ in LaTeX – basics and first circuit (circuitikz)"
 description: "How to create drawings in TikZ in LaTeX: from a simple example to a first circuit using circuitikz."
-date: 2026-04-23 07:00:00 +0100
+date: 2026-04-24 07:00:00 +0100
 categories: [Graphics, LaTeX-TikZ]
 tags: [latex, tikz, circuitikz]
 ---
