@@ -35,10 +35,10 @@ Certification-focused training playlists are available here: [https://my.solidwo
 
 After installing and launching SolidWorks, the main window appears with a start panel. It is recommended to begin with the built-in tutorials, accessible via the button shown in the figure.
 
-![SolidWorks - first launch](/assets/posts/solidworks-getting-started/solidworks-panel-startowy.png)
+![SolidWorks - first launch](/assets/posts/solidworks-getting-started/solidworks-start-panel.png)
 ***Rys. 2.** SolidWorks - start panel.*
 
-![SolidWorks - first launch](/assets/posts/solidworks-getting-started/solidworks-okno-glowne.png)
+![SolidWorks - first launch](/assets/posts/solidworks-getting-started/solidworks-main-window.png)
 ***Rys. 3.** SolidWorks – main window after first launch*
 
 ## Certification (CSWA)
@@ -66,3 +66,8 @@ To take a certification exam (both sample and final), it is necessary to launch 
 After launching the application and creating an account, a list of available exams is displayed, for example “CSWA - Sample Exam”.
 
 The free sample exam can be taken once every 30 days.
+
+> **License**
+>
+> Created using a license provided by DPS Software [DPS Software](https://dps-software.pl/).
+{: .prompt-info }
