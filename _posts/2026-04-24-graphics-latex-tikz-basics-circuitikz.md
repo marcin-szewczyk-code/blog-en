@@ -25,7 +25,7 @@ A TikZ drawing is a piece of code inside the `tikzpicture` environment.
 
 Example circle with center, radius and diameter:
 
-<img src="/assets/posts/graphics-latex-tikz-basics-circuitikz/figures/circle.png" width="200">
+<img src="/assets/posts/graphics-latex-tikz-basics-circuitikz/figures/circle.png" alt="Example TikZ circle" width="200">
 ***Fig. 2.** Example TikZ circle.*
 
 Code:
