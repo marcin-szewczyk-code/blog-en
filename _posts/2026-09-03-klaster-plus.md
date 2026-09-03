@@ -14,11 +14,11 @@ The website is available in two language versions, hosted on separate subdomains
 - [klaster-plus.edu.pl](https://klaster-plus.edu.pl/) – Polish version,
 - [en.klaster-plus.edu.pl](https://en.klaster-plus.edu.pl/) – English version.
 
-![Polish version of the KLASTER+ project website](/assets/posts/2026-09-03-klaster-plus/klaster-pl.webp)
-***Fig. 1.*** *Polish version of the KLASTER+ project website.*
-
 ![English version of the KLASTER+ project website](/assets/posts/2026-09-03-klaster-plus/klaster-en.webp)
-***Fig. 2.*** *English version of the KLASTER+ project website.*
+***Fig. 1.*** *English version of the KLASTER+ project website.*
+
+![Polish version of the KLASTER+ project website](/assets/posts/2026-09-03-klaster-plus/klaster-pl.webp)
+***Fig. 2.*** *Polish version of the KLASTER+ project website.*
 
 Content is written in Markdown files. The website provides information about the project and its partners, news, results, and materials for the media. It also includes search functionality, an RSS feed, a newsletter, GA4 integration, an accessibility widget, and a language switcher.
 
